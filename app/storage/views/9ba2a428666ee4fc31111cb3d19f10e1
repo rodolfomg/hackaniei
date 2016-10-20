@@ -1,0 +1,169 @@
+<?php $__env->startSection('title'); ?>
+<h1>Módulo I - Tutoriales</h1>
+<?php $__env->stopSection(); ?>
+
+<?php $__env->startSection('left-sidebar'); ?>
+	<h2>Iniciación a la Programación y a la Robótica Virtual, a través de iconos por internet</h2><br/><br/>
+	<video width="90%" controls>
+		<source src="movie.ogg" type="video/ogg">
+		<source src="/assets/moduloI/tutorial/video/Robozzle.mp4" type="video/mp4">
+		<object data="movie.mp4" width="320" height="240">
+			<embed width="320" height="240" src="movie.swf">
+		</object>
+	</video><br/><br/>
+	<hr class="blog-post-sep">
+	<div class="row" id="Robozzle">
+		<div class="col-md-7 col-sm-7">
+		  <h2 class="text-primary">Robozzle</h2>
+		  <p>Robozzle es la plataforma con la que se trabajará en el primer modulo, puedes acceder a ella en la siguiente liga <a href="http://robozzle.com">robozzle.com</a></p>
+		</div>
+		<div class="col-md-5 col-sm-5">
+		  <a href="/assets/moduloI/tutorial/img/robozzle.jpg" class="fancybox-button" title="Robozzle" data-rel="fancybox-button"><img class="img-responsive" src="/assets/moduloI/tutorial/img/robozzle.jpg" alt="Robozzle"></a>
+		</div>
+	</div>
+	<hr class="blog-post-sep">
+	<div class="row" id="Tablero">
+		<div class="col-md-4 col-sm-4">
+		  <a href="/assets/moduloI/tutorial/img/tablero.jpg" class="fancybox-button" title="Tablero" data-rel="fancybox-button"><img class="img-responsive" src="/assets/moduloI/tutorial/img/tablero.jpg" alt=""></a>
+		</div>
+		<div class="col-md-8 col-sm-8">
+		  <h2 class="text-primary">Tablero</h2>
+		  <p>Para resolver el reto, se deberá programar al robot para que recoga cada estrella en el tablero o mapa.</p>
+		  <p>Para recoger las estrellas basta con que el robot pasa por encima de ellas.</p>
+		</div>
+	</div>
+	<hr class="blog-post-sep">
+	<div class="row" id="Mundo">
+		<div class="col-md-8 col-sm-8">
+		  <h2 class="text-primary">Mundo</h2>
+		  <p>El mundo del Robot esta formado de cuadros que pueden ser de tres colores diferentes (verdes, azules y rojos), en algunos cuadros se encuentra una estrella, la cual el robot deberá levantar.</p>
+		  <p>También, el mapa tiene secciones de color negro, las cuales el robot no debe tocar, o de lo contrario se perderá el reto.</p>
+		</div>
+		<div class="col-md-4 col-sm-4">
+		  <a href="/assets/moduloI/tutorial/img/mundo.jpg" class="fancybox-button" title="Mundo" data-rel="fancybox-button"><img class="img-responsive" src="/assets/moduloI/tutorial/img/mundo.jpg" alt=""></a>
+		</div>
+	</div>
+	<hr class="blog-post-sep">
+	<div class="row" id="Botones">
+		<div class="col-md-4 col-sm-4">
+		  <a href="/assets/moduloI/tutorial/img/botones.jpg" class="fancybox-button" title="Botones" data-rel="fancybox-button"><img class="img-responsive" src="/assets/moduloI/tutorial/img/botones.jpg" alt=""></a>
+		</div>
+		<div class="col-md-8 col-sm-8">
+		  <h2 class="text-primary">Botones</h2>
+		  <p>La programación es de manera gráfica por medio de iconos (botones), donde cada icono representa una orden o instrucción para el Robot.</p>
+		</div>
+	</div>
+	<hr class="blog-post-sep">
+	<div class="row" id="Funciones">
+		<div class="col-md-8 col-sm-8">
+		  <h2 class="text-primary">Funciones</h2>
+		  <p>Cada icono debe ser colocado, en el orden correcto, dentro de los cuadros que representa el modulo o función principal llamado <strong>F1</strong>.</p>
+		</div>
+		<div class="col-md-4 col-sm-4">
+		  <a href="/assets/moduloI/tutorial/img/funciones.jpg" class="fancybox-button" title="Funciones" data-rel="fancybox-button"><img class="img-responsive" src="/assets/moduloI/tutorial/img/funciones.jpg" alt=""></a>
+		</div>
+	</div>
+	<hr class="blog-post-sep">
+	<div class="row" id="Toma de decisiones">
+		<div class="col-md-4 col-sm-4">
+		  <a href="/assets/moduloI/tutorial/img/colores.jpg" class="fancybox-button" title="Toma de decisiones" data-rel="fancybox-button"><img class="img-responsive" src="/assets/moduloI/tutorial/img/colores.jpg" alt=""></a><br/>
+		  <a href="/assets/moduloI/tutorial/img/decisiones.jpg" class="fancybox-button" title="Toma de decisiones" data-rel="fancybox-button"><img class="img-responsive" src="/assets/moduloI/tutorial/img/decisiones.jpg" alt=""></a>
+		</div>
+		<div class="col-md-8 col-sm-8">
+		  <h2 class="text-primary">Toma de decisiones</h2>
+		  <p>Se cuenta con tres botones de color  (rojo, verde y azul), cada uno, de color diferente, y con estos botones hacemos que el Robot tome decisiones.</p>
+		  <p>Por ejemplo si en un cuadro de instrucción, colocamos el botón de color verde, y encima del mismo botón colocamos la orden de avanzar (cuyo símbolo es una flecha), entonces, cuando el Robot ejecute esta orden, el Robot avanzara solo si en ese momento se encuentra sobre un cuadro de color verde, en caso contrario, no avanza y se pasa al siguiente cuadro de instrucción.</p>
+		</div>
+	</div>
+	<hr class="blog-post-sep">
+	<div class="row" id="Resolviendo un Puzzle">
+		<div class="col-md-8 col-sm-8">
+		  <h2 class="text-primary">Resolviendo un puzzle</h2>
+		  <p>A continuación resolveremos el siguiente puzzle para detallar la forma en que funciona esta excelente plataforma.</p>
+		  <p>Recordemos que el objetivo es Programar el robot para que recoja todas las estrellas que aparecen en el tablero de juego.</p>
+		</div>
+		<div class="col-md-4 col-sm-4">
+		  <a href="/assets/moduloI/tutorial/img/mundo.jpg" class="fancybox-button" title="Resolviendo un puzzle" data-rel="fancybox-button"><img class="img-responsive" src="/assets/moduloI/tutorial/img/mundo.jpg" alt=""></a>
+		</div>
+	</div>
+	<hr class="blog-post-sep">
+	<div class="row" id="Paso 1">
+		<div class="col-md-8 col-sm-8">
+		  <h2 class="text-primary">Paso 1: Avanzar</h2>
+		  <p>Así que nuestro primer paso es lograr que el robot avance a través del sendero que se dibuja en el tablero.</p>
+		  <p>Para ello, seleccionaremos la instrucción “avanzar”, que gráficamente se representa con una flecha apuntado hacia el norte.</p>
+		  <p>Y ahora la colocamos en la posición 0 del cuadro de instrucciones.</p>
+		  <p>En las imagenes vemos como se encuentra el cuadro de instrucciones al inicio del problema, y vemos quedaría después de agregar la instrucción para avanzar.</p>
+		</div>
+		<!--div class="col-md-5 col-sm-5">
+		  <a href="/assets/moduloI/tutorial/img/paso1.jpg" class="fancybox-button" title="Paso 1: Avanzar" data-rel="fancybox-button"><img class="img-responsive" src="/assets/moduloI/tutorial/img/paso1.jpg" alt=""></a>
+		</div-->
+		<div class="col-md-4 col-sm-4">
+		  <a href="/assets/moduloI/tutorial/img/paso1.jpg" class="fancybox-button" title="Paso 1: Avanzar" data-rel="fancybox-button"><img class="img-responsive" src="/assets/moduloI/tutorial/img/paso1.jpg" alt=""></a><br/>
+		  <a href="/assets/moduloI/tutorial/img/paso1-B.jpg" class="fancybox-button" title="Paso 1: Avanzar" data-rel="fancybox-button"><img class="img-responsive" src="/assets/moduloI/tutorial/img/paso1-B.jpg" alt=""></a>
+		</div>
+	</div>
+	<hr class="blog-post-sep">
+		<div class="row" id="Resultado">
+		<div class="col-md-8 col-sm-8">
+		  <h2 class="text-primary">Resultado</h2>
+		  <p>Al correr el puzzle con el botón "<span class="text-primary"><strong>go!</strong></span>" El resultado es el siguiente:</p>
+		  <p>Nuestro robot solo avanzo un recuadro.</p>
+		</div>
+		<div class="col-md-4 col-sm-4">
+		  <a href="/assets/moduloI/tutorial/img/resultado1.jpg" class="fancybox-button" title="Resultado, paso 1" data-rel="fancybox-button"><img class="img-responsive" src="/assets/moduloI/tutorial/img/resultado1.jpg" alt=""></a>
+		</div>
+	</div>
+	<hr class="blog-post-sep">
+	<div class="row"  id="Paso 2">
+		<div class="col-md-8 col-sm-8">
+		  <h2 class="text-primary">Paso 2: Recursión</h2>
+		  <p>Para lograr que el robot avance de forma continua utilizando un mínimo de cuadros de instrucción, utilizaremos la recursión</p>
+		  <p>Esto se logra de la siguiente manera: se le indica al puzzle que al llegar a la "<span class="text-primary"><strong>instrucción #3</strong></span>", se repita la función "<span class="text-primary"><strong>F1</strong></span>".</p>
+		  <p>Así que colocamos las instrucciones correspondientes como se muestra en la imagen.</p>
+		</div>
+		<div class="col-md-4 col-sm-4">
+		  <a href="/assets/moduloI/tutorial/img/paso2.jpg" class="fancybox-button" title="Paso 2: Recursión" data-rel="fancybox-button"><img class="img-responsive" src="/assets/moduloI/tutorial/img/paso2.jpg" alt=""></a>
+		</div>
+	</div>
+	<hr class="blog-post-sep">
+		<div class="row" id="Resultado 2">
+		<div class="col-md-8 col-sm-8">
+		  <h2 class="text-primary">Resultado</h2>
+		  <p>Nuestro robot avanzara de forma continua, a no ser que le asignemos una instrucción distinta en algún punto de la función.</p>
+		  <p>De no asignar una función, nuestro maravilloso robot tendrá un desenlace trágico (caerá por la borda), esto debido a que el sendero no cuenta con barda alguna.</p>
+		  <p>Y ya que caer por la borda no es parte de los objetivos de nuestro robot. Haremos lo siguiente para que esto no suceda.</p>
+		</div>
+		<div class="col-md-4 col-sm-4">
+		  <a href="/assets/moduloI/tutorial/img/resultado2.jpg" class="fancybox-button" title="Resultado, paso 2" data-rel="fancybox-button"><img class="img-responsive" src="/assets/moduloI/tutorial/img/resultado2.jpg" alt=""></a>
+		</div>
+	</div>
+	<hr class="blog-post-sep">
+	<div class="row"  id="Paso 3">
+		<div class="col-md-8 col-sm-8">
+		  <h2 class="text-primary">Paso 3: Toma de decisiones</h2>
+		  <p>Haremos que nuestro robot tome la siguiente decisión:</p>
+		  <p class="text-info">"Solo al estar sobre un recuadro de color <span class="text-primary"><strong>azul</strong></span>, gira hacia la derecha para no caer".</p>
+		  <p>Esto se logra colocando el <span class="text-info">"recuadro de color azul"</span> y <span class="text-info">"la flecha hacia la derecha"</span> en el apartado de instrucciones, específicamente en la <span class="text-info"><strong>instruccion 2</strong></span>, ya que es el único recuadro que nos queda libre.</p>
+		</div>
+		<div class="col-md-4 col-sm-4">
+		  <a href="/assets/moduloI/tutorial/img/paso3.jpg" class="fancybox-button" title="Paso 3: Toma de decisiones" data-rel="fancybox-button"><img class="img-responsive" src="/assets/moduloI/tutorial/img/paso3.jpg" alt=""></a><br/><br/>
+		  <a href="/assets/moduloI/tutorial/img/paso3-B.jpg" class="fancybox-button" title="Paso 3: Toma de decisiones" data-rel="fancybox-button"><img class="img-responsive" src="/assets/moduloI/tutorial/img/paso3-B.jpg" alt=""></a>
+		</div>
+	</div>
+	<hr class="blog-post-sep">
+	<div class="row"  id="Final">
+		<div class="col-md-8 col-sm-8">
+		  <h2 class="text-primary">Final del puzzle</h2>
+		  <p>Una vez que el robot gira en el cuadro azul, avanza los siguientes cuadros rojos al igual que al inicio.</p>
+		  <p>El juego termina cuando el robot ah pasado sobre todas las estrellas en el campo.</p>
+		  <p>Ahora te toca a ti, dirigete a la sección de ejercicios para continuar aprendiendo para que puedas resolver todos los retos y sumar puntos para subir en el ranking.</p>
+		  <a class="slide_btn btn blue" href="MI-Ejercicios.php" >Ir ahora</a> 
+		</div>
+		<div class="col-md-4 col-sm-4">
+		  <a href="/assets/moduloI/tutorial/img/final.jpg" class="fancybox-button" title="Final del puzzle" data-rel="fancybox-button"><img class="img-responsive" src="/assets/moduloI/tutorial/img/final.jpg" alt=""></a><br/><br/>
+		  <a href="/assets/moduloI/tutorial/img/final-B.jpg" class="fancybox-button" title="Final del puzzle" data-rel="fancybox-button"><img class="img-responsive" src="/assets/moduloI/tutorial/img/final-B.jpg" alt=""></a>
+		</div>
+	</div>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.m1_layout', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

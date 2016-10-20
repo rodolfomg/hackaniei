@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Document</title>
+
+	<!-- Bootstrap -->
+    <link href="/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/assets/css/custom.css" rel="stylesheet">
+</head>
+<body>
+	<div class="container">
+		<div class="row page-header">
+			<div class="col-sm-12">
+				<h2>R2-D2</h2>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-3">
+				<h4>Menu</h4>
+				<ul class="nav nav-pills nav-stacked">
+					<li><a href="">Ordenar</a></li>
+					<li><a href="">Requerimientos</a></li>
+					<li><a href="">Administrar BD</a></li>
+					<li><a href="">Inventario</a></li>
+					<li><a href="">Pedidos</a></li>
+				</ul>
+			</div>
+			<div class="col-sm-9">
+				<table>
+					<thead>
+						<tr>
+							<th>Id</th>
+							<th>Id Familia</th>
+							<th>Nombre</th>
+							<th>Marca</th>
+							<th>Modelo</th>
+							<th>Provedor</th>
+							<th>Costo</th>
+							<th>Ubicación</th>
+							<th>Máximo</th>
+							<th>Mínimo</th>
+						</tr>
+					</thead>
+					<tbody>
+						<?php foreach($articulos as $articulo): ?>
+							<tr>
+								<td><?php echo $articulo->id; ?></td>
+								<td><?php echo $articulo->idFamilia; ?></td>
+								<td><?php echo $articulo->nombre; ?></td>
+								<td><?php echo $articulo->marca; ?></td>
+								<td><?php echo $articulo->modelo; ?></td>
+								<td><?php echo $articulo->provedor; ?></td>
+								<td><?php echo $articulo->costo; ?></td>
+								<td><?php echo $articulo->ubicacion; ?></td>
+								<td><?php echo $articulo->maximo; ?></td>
+								<td><?php echo $articulo->minimo; ?></td>
+							</tr>
+						<?php endforeach; ?>
+					</tbody>
+				</table>
+			</div>
+		</div>
+		
+	</div>
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/assets/js/bootstrap.min.js"></script>
+</body>
+</html>

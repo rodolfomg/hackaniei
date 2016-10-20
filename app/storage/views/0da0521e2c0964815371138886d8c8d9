@@ -1,0 +1,194 @@
+<?php $__env->startSection('content'); ?>
+<!-- BEGIN CONTENT -->
+<div class="page-content-wrapper">
+	<div class="page-content">
+		<!-- BEGIN SAMPLE PORTLET CONFIGURATION MODAL FORM-->
+		<div class="modal fade" id="portlet-config" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+						<h4 class="modal-title">Modal title</h4>
+					</div>
+					<div class="modal-body">
+						 Widget settings form goes here
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn blue">Save changes</button>
+						<button type="button" class="btn default" data-dismiss="modal">Close</button>
+					</div>
+				</div>
+				<!-- /.modal-content -->
+			</div>
+			<!-- /.modal-dialog -->
+		</div>
+		<!-- /.modal -->
+		<!-- END SAMPLE PORTLET CONFIGURATION MODAL FORM-->
+		<!-- BEGIN PAGE HEADER-->
+		<h3 class="page-title">
+		Usuarios <small>Gestor de usuarios</small>
+		</h3>
+		<!-- END PAGE HEADER-->
+		<!-- BEGIN PAGE CONTENT-->
+		<div class="row">
+			<div class="col-md-12">
+				<!-- BEGIN PROFILE SIDEBAR -->
+				<div class="profile-sidebar" style="width:291px;">
+					<!-- PORTLET MAIN -->
+					<div class="portlet light profile-sidebar-portlet">
+						<!-- SIDEBAR USER TITLE -->
+						<div class="profile-usertitle">
+							<div class="profile-usertitle-name">
+								usuario
+							</div>
+							<div class="profile-usertitle-job">
+								nuevo usuario
+							</div>
+						</div>
+						<!-- END SIDEBAR USER TITLE -->
+						<!-- SIDEBAR BUTTONS -->
+						<div class="profile-userbuttons margin-bottom-40">
+							
+						</div>
+						<!-- END SIDEBAR BUTTONS -->
+					</div>
+					<!-- END PORTLET MAIN -->
+					<!-- PORTLET MAIN -->
+					<div class="portlet light">
+						<div>
+							<h4 class="profile-desc-title">About Marcus Doe</h4>
+							<span class="profile-desc-text"> Lorem ipsum dolor sit amet diam nonummy nibh dolore. </span>
+							<div class="margin-top-20 profile-desc-link">
+								<i class="fa fa-globe"></i>
+								<a href="http://www.keenthemes.com">www.keenthemes.com</a>
+							</div>
+							<div class="margin-top-20 profile-desc-link">
+								<i class="fa fa-twitter"></i>
+								<a href="http://www.twitter.com/keenthemes/">@keenthemes</a>
+							</div>
+							<div class="margin-top-20 profile-desc-link">
+								<i class="fa fa-facebook"></i>
+								<a href="http://www.facebook.com/keenthemes/">keenthemes</a>
+							</div>
+						</div>
+					</div>
+					<!-- END PORTLET MAIN -->
+				</div>
+				<!-- END BEGIN PROFILE SIDEBAR -->
+				<!-- BEGIN PROFILE CONTENT -->
+				<div class="profile-content">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="portlet light">
+								<div class="portlet-title tabbable-line">
+									<div class="caption caption-md">
+										<i class="icon-globe theme-font hide"></i>
+										<span class="caption-subject font-blue-madison bold uppercase">nuevo usuario</span>
+									</div>
+									<ul class="nav nav-tabs">
+										<li class="active">
+											<a href="#tab_1_1" data-toggle="tab">Información</a>
+										</li>
+									</ul>
+								</div>
+								<div class="portlet-body">
+									<div class="tab-content">
+										<!-- PERSONAL INFO TAB -->
+										<div class="tab-pane active" id="tab_1_1">
+											<?php echo Form::open(array('url' => '/admin-users/add-user', 'id' => 'form-user')); ?>
+
+												<div class="form-group">
+													<label class="control-label">username</label>
+													<?php echo Form::text('username', null, array('class' => 'form-control', 'placeholder' => 'username')); ?>
+
+												</div>
+												<div class="form-group">
+													<label class="control-label">password</label>
+													<?php echo Form::text('password', null, array('class' => 'form-control', 'placeholder' => 'password')); ?>
+
+												</div>
+												<div class="form-group">
+													<label class="control-label">nombre</label>
+													<?php echo Form::text('nombre', null, array('class' => 'form-control', 'placeholder' => 'nombre')); ?>
+
+												</div>
+												<div class="form-group">
+													<label class="control-label">apellido</label>
+													<?php echo Form::text('apellido', null, array('class' => 'form-control', 'placeholder' => 'apellido')); ?>
+
+												</div>
+												<div class="form-group">
+													<label class="control-label">tipo</label>
+													<?php echo Form::text('tipo', null, array('class' => 'form-control', 'placeholder' => '1, 2, 3...')); ?>
+
+												</div>
+												<div class="form-group">
+													<label class="control-label">e-mail</label>
+													<?php echo Form::text('email', null, array('class' => 'form-control', 'placeholder' => 'username@veggiepack.mx')); ?>
+
+												</div>
+												<div class="form-group">
+													<label class="control-label">telefono</label>
+													<?php echo Form::text('telefono', null, array('class' => 'form-control', 'placeholder' => '10 digits')); ?>
+
+												</div>
+												<div class="form-group">
+													<label class="control-label">calle</label>
+													<?php echo Form::text('calle', null, array('class' => 'form-control', 'placeholder' => 'calle')); ?>
+
+												</div>
+												<div class="form-group">
+													<label class="control-label">numero</label>
+													<?php echo Form::text('numero', null, array('class' => 'form-control', 'placeholder' => '1111')); ?>
+
+												</div>
+												<div class="form-group">
+													<label class="control-label">colonia</label>
+													<?php echo Form::text('colonia', null, array('class' => 'form-control', 'placeholder' => 'colonia')); ?>
+
+												</div>
+												<div class="form-group">
+													<label class="control-label">codigo postal</label>
+													<?php echo Form::text('codigoPostal', null, array('class' => 'form-control', 'placeholder' => '64000')); ?>
+
+												</div>
+												<div class="form-group">
+													<label class="control-label">ciudad</label>
+													<?php echo Form::text('ciudad', null, array('class' => 'form-control', 'placeholder' => '1, 2, 3...')); ?>
+
+												</div>
+												<div class="form-group">
+													<label class="control-label">estado</label>
+													<?php echo Form::text('estado', null, array('class' => 'form-control', 'placeholder' => '1, 2, 3...')); ?>
+
+												</div>
+												<div class="form-group">
+													<label class="control-label">pais</label>
+													<?php echo Form::text('pais', null, array('class' => 'form-control', 'placeholder' => '1, 2, 3...')); ?>
+
+												</div>
+												
+												<div class="margiv-top-40">
+													<?php echo Form::submit('Agregar usuario', array('class' => 'btn green-haze')); ?>
+
+													<a href="#" class="btn default">
+													Cancelar </a>
+												</div>
+											</form>
+										</div>
+										<!-- END PERSONAL INFO TAB -->
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- END PROFILE CONTENT -->
+			</div>
+		</div>
+		<!-- END PAGE CONTENT-->
+	</div>
+</div>
+<!-- END CONTENT -->
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.admin_layout', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

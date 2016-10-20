@@ -1,0 +1,31 @@
+<html>
+<head>
+</head>
+
+<body>
+	<h1>Vista de insert</h1>
+	
+	<table>
+		<tr>
+			<td>Id</td>
+			<td><?php echo $alumno->id; ?></td>
+		</tr>
+		<tr>
+			<td>Nombre</td>
+			<td><?php echo $alumno->nombre; ?></td>
+		</tr>
+		<tr>
+			<td>Apellidos</td>
+			<td><?php echo $alumno->apellidos; ?></td>
+		</tr>
+		<tr>
+			<td>Grupo</td>
+			<td><?php echo $alumno->grupo; ?></td>
+		</tr>
+		<tr>
+			<td>Promedio</td>
+			<td><?php echo $alumno->promedio; ?></td>
+		</tr>
+	</table>
+</body>
+</html>

@@ -1,0 +1,60 @@
+<?php $__env->startSection('title'); ?>
+<h1>Módulo I - Tareas</h1>
+<?php $__env->stopSection(); ?>
+
+<?php $__env->startSection('left-sidebar'); ?>
+	<div class="">
+	  <h2>Iniciación a la Programación y a la Robótica Virtual, a través de iconos por internet</h2>
+	  <p>A partir de este momento puedes empezar a resolver los ejercicios de este módulo, para subir la solución entra en el enlace del ejercicio, resuelvelo y se verá reflejado automáticamente con la etiqueta: "Aceptado"</p>
+	  <P>Al entrar a la pagina de <a href="www.robozzle.com" target="_blank"> robozzle.com </a> debes de iniciar sesion 
+		 para que se te registre en nuestra plataforma (ominl.educacioncreativa.org) el ejercicio o tarea que resuelvas</p>                 
+	  
+	  <div class="alert alert-warning">
+			<strong>Anuncio</strong> Si no aparecen tus soluciones aceptadas y ya las resolviste, contacta al administrador.
+			<p>Al entrar a la pagina de robozzle.com debes de iniciar sesion para que se te registre en nuestra 
+			plataforma (omi2015nl.educacioncreativa.org) el ejercicio o tarea que resuelvas   </p>
+	  </div>
+	
+	<?php foreach($problemas as $problema): ?>
+		<hr class="blog-post-sep">
+			<div class="row">
+				<div class="col-md-4 col-sm-4">
+				  <a href="<?php echo $problema->url; ?>" target="_blank">
+					<h2 class="text-primary"><?php echo $problema->name; ?></h2>
+				  </a>
+				</div>
+			<div class="col-md-8 col-sm-8">
+				<?php if($resueltos[$problema->id]): ?>
+					<div class='row'>
+						  <div class='col-md-10 col-sm-10'>
+							<a href='$problema->id' class='btn green btn-block' target="_blank">
+								   Aceptado
+							</a>
+						  </div>
+						  <div class='col-md-2 col-sm-2'>
+							<h2 class='text-success'>
+								<strong>10pts</strong>
+							</h2>
+						  </div>
+					</div> 
+				<?php else: ?>
+					<div class='row'> 
+						  <div class='col-md-10 col-sm-10'>
+							<a href = "<?php echo $problema->url; ?>" class='btn default btn-block' target='_blank'> 
+								   Esperando solución
+							</a>
+						  </div>
+						  <div class='col-md-2 col-sm-2'>
+							<h2 class='text-danger'>
+								<strong>0 pts</strong>
+							</h2>
+						  </div>
+					</div>
+				<?php endif; ?>
+			</div>
+		</div>
+		<hr class="blog-post-sep">
+	<?php endforeach; ?>
+	</div>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.m1_layout', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

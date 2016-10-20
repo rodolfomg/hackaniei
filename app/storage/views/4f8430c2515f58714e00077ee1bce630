@@ -1,0 +1,191 @@
+
+
+<?php $__env->startSection('content'); ?>
+    <section id="page-separator" class="global-page-header">
+    </section><!--/#Page header-->
+
+    <section class="">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-9">
+                    <h1>Seguridad en Aplicaciones</h1><hr>
+                </div>
+            </div>
+            <div class="row bottom-30">
+                <div class="col-md-9">
+                    <p>
+                        El desarrollo de aplicaciones hechas en casa, de terceros o comerciales puede ser un dolor de
+
+cabeza operativo y costoso si no están debidamente probadas y se detectan vulnerabilidades ya
+
+estando en producción. El costo de remediar una vulnerabilidad en el código fuente de una
+
+aplicación puede ser hasta de 30 veces el costo inicial.
+                    </p>
+                    <div class="row">
+                        <div class="col-md-5 col-md-offset-0 col-sm-offset-2 col-sm-8">
+                            <img src="/assets/images/services/network_security/firewall.jpg" width="100%" alt="">
+                        </div>
+                        <div class="col-md-7 col-sm-12">
+                            <p>
+                                El control de acceso adecuado para los usuarios de la red a estas aplicaciones es crucial para
+
+asegurar que cada usuario tiene acceso sólo a aquellos recursos para la cual está autorizado.
+                            </p>
+                            <p>
+                                El 86% de los todos los sitios Web en 2015 tenían por lo menos una vulnerabilidad.
+                            </p>
+                            <p>
+                                El 97% de las aplicaciones móviles fueron afectadas por temas de autenticación o control de acceso.
+                            </p>
+                            <p>
+                                La Fuga de Información representa el 55% de las vulnerabilidades.
+                            </p>
+                            <p>
+                                Las aplicaciones Web y móviles siguen siendo vulnerables a amenazas ya conocidas.
+                            </p>
+                        </div>
+                        <div class="col-sm-12">
+                            <p>
+                                Las organizaciones que periódicamente prueban sus aplicaciones han logrado reducir riesgos y
+
+costos asociados.
+                            </p>
+                            <p>
+                                Las herramientas de HP Enterprise Security permiten asegurar el código de las aplicaciones a lo
+
+largo del ciclo de vida del desarrollo de software (SDLC). Identifica y remedia las vulnerabilidades
+
+de las aplicaciones desde la etapa de Diseño, QA, hasta ya puestas en Producción.
+                            </p>
+                            <p>
+                                Realiza escaneos estáticos, dinámicos e híbridos de las aplicaciones.
+                            </p>
+                            <p>
+                                Soporte 22 lenguajes de programación.
+                            </p>
+                            <p>
+                                Realiza las pruebas en sitio o bien como un servicio.
+                            </p>
+                        </div>
+                    </div>
+                    <section class="works works-fit">
+                        <h2 class="subtitle">Soluciones integrales</h2>
+                        <p class="subtitle-des">
+                            Revisa todos los servicios que tenemos para tu empresa, y asegurate de mantener toda la información segura sin importar la plataforma donde se encuentre.
+                        </p>
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <figure class="wow fadeInLeft animated portfolio-item animated" data-wow-duration="300ms" data-wow-delay="0ms" style="visibility: visible; animation-duration: 300ms; -webkit-animation-duration: 300ms; animation-delay: 0ms; -webkit-animation-delay: 0ms; animation-name: fadeInLeft; -webkit-animation-name: fadeInLeft;">
+                                    <div class="img-wrapper">
+                                        <img src="/assets/images/services/security/mobile-security.png" height="126px" class="img-responsive" alt="portfolio items">
+                                    </div>
+                                    <figcaption>
+                                        <h4>
+                                            <a href="#">
+                                                Seguridad en equipos moviles        
+                                            </a>
+                                        </h4>
+                                        <p>
+                                            Redesigne UI Concept
+                                        </p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+
+                            <div class="col-sm-3">
+                                <figure class="wow fadeInLeft animated animated" data-wow-duration="300ms" data-wow-delay="300ms" style="visibility: visible; animation-duration: 300ms; -webkit-animation-duration: 300ms; animation-delay: 300ms; -webkit-animation-delay: 300ms; animation-name: fadeInLeft; -webkit-animation-name: fadeInLeft;">
+                                    <div class="img-wrapper">
+                                        <img src="/assets/images/services/security/data_encryption.png" style="margin-left: 25%; height: 126px;" class="img-responsive" alt="portfolio items">
+                                    </div>
+                                    <figcaption>
+                                        <h4>
+                                            <a href="#">
+                                                Protección de datos      
+                                            </a>
+                                        </h4>
+                                        <p>
+                                            Lorem ipsum dolor sit.
+                                        </p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+
+                            <div class="col-sm-3">
+                                <figure class="wow fadeInLeft animated animated" data-wow-duration="300ms" data-wow-delay="300ms" style="visibility: visible; animation-duration: 300ms; -webkit-animation-duration: 300ms; animation-delay: 300ms; -webkit-animation-delay: 300ms; animation-name: fadeInLeft; -webkit-animation-name: fadeInLeft;">
+                                    <div class="img-wrapper">
+                                        <img src="/assets/images/services/security/cloud.jpg" style="margin-left: 5%; height:126px" class="img-responsive" alt="">
+                                    </div>
+                                    <figcaption>
+                                        <h4>
+                                            <a href="#">
+                                                Seguridad en aplicaciones        
+                                            </a>
+                                        </h4>
+                                        <p>
+                                            Lorem ipsum dolor sit.
+                                        </p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+
+                            <div class="col-sm-3">
+                                <figure class="wow fadeInLeft animated animated" data-wow-duration="300ms" data-wow-delay="600ms" style="visibility: visible; animation-duration: 300ms; -webkit-animation-duration: 300ms; animation-delay: 600ms; -webkit-animation-delay: 600ms; animation-name: fadeInLeft; -webkit-animation-name: fadeInLeft;">
+                                    <div class="img-wrapper">
+                                        <img src="/assets/images/services/security/cryptography.png" style="margin-left: 15%; height:126px" class="img-responsive" alt="">
+                                    </div>
+                                    <figcaption>
+                                        <h4>
+                                            <a href="#">
+                                                Almacenamiento de alta seguridad    
+                                            </a>
+                                        </h4>
+                                        <p>
+                                            Lorem ipsum dolor.
+                                        </p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+                <div class="col-sm-3 hidden-xs hidden-sm">
+                    <ul class="nav nav-tabs vertical-tabs" role="tablist">
+                        <li role="presentation"><h4>Soluciones</h4></li>
+                        <li role="presentation">
+                            <a href="/servicios/seguridad-red" aria-controls="tab1">
+                                <i class="fa fa-chevron-right"></i> Seguridad en la Red
+                            </a>
+                        </li>
+                        <li role="presentation">
+                            <a href="/servicios/seguridad-movil" aria-controls="tab2">
+                                Seguridad en Dispositivos Móviles
+                            </a>
+                        </li>
+                        <li role="presentation">
+                            <a href="/servicios/proteccion-datos" aria-controls="tab3">
+                                Protección de Datos
+                            </a>
+                        </li>
+                        <li role="presentation" class="sm-active">
+                            <a href="/servicios/seguridad-apps" aria-controls="tab4">
+                                Seguridad en Aplicaciones
+                            </a>
+                        </li>
+                        <li role="presentation">
+                            <a href="/servicios/alta-seguridad" aria-controls="tab5">
+                                Almacenamiento de Alta Seguridad
+                            </a>
+                        </li>
+                        <li role="presentation">
+                            <a href="/servicios/planeacion" aria-controls="tab6">
+                                Planeación y Gestión de Recursos
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.base_layout', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

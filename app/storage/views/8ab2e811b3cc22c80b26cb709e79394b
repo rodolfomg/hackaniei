@@ -1,0 +1,22 @@
+<h1>Resultado</h1>
+
+<table>
+	<tr>
+		<td class="text-right td-title"><h4>Media:</h4></td>
+		<td><h4><?php echo $med; ?></h4></td>
+	</tr>
+	<tr>
+		<td class="text-right td-title"><h4>Desviación estandar: </h4></td>
+		<td><h4><?php echo $des; ?></h4></td>
+	</tr>
+</table>
+
+<br><br>
+
+<h3>Datos utilizados</h3>
+
+<table id="datos-usados">
+	<?php foreach($data as $num): ?>
+		<tr><td><h4><?php echo $num; ?></h4></td></tr>
+	<?php endforeach; ?>
+</table>

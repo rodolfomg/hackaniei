@@ -1,0 +1,1189 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border-right-width"
+			],
+			[
+				"border-",
+				"border-color"
+			],
+			[
+				"dias_",
+				"dias_disponibles"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"fro",
+				"frontIsBlocked"
+			],
+			[
+				"front",
+				"frontIsClear"
+			],
+			[
+				"num_",
+				"num_empleado"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"des",
+				"destinationPath"
+			],
+			[
+				"serial",
+				"serialization"
+			],
+			[
+				"K",
+				"problemasK"
+			],
+			[
+				"pro",
+				"problemas"
+			],
+			[
+				"solu",
+				"solution"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"caso",
+				"caso_solucion"
+			],
+			[
+				"sol",
+				"solucion"
+			],
+			[
+				"table",
+				"form-sum-table"
+			],
+			[
+				"be",
+				"beta1"
+			],
+			[
+				"nx",
+				"nx"
+			],
+			[
+				"bet",
+				"beta0"
+			],
+			[
+				"sumx",
+				"sumxy"
+			],
+			[
+				"sum",
+				"sumy2"
+			],
+			[
+				"sumy",
+				"sumy2"
+			],
+			[
+				"med",
+				"medx"
+			],
+			[
+				"S",
+				"Sxx"
+			],
+			[
+				"beta",
+				"beta1"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"add",
+				"addItem"
+			],
+			[
+				"to",
+				"total_p"
+			],
+			[
+				"I",
+				"Item"
+			],
+			[
+				"tot",
+				"total_i"
+			],
+			[
+				"com",
+				"comentarios"
+			],
+			[
+				"stri",
+				"stripos"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"cod",
+				"codigo2"
+			],
+			[
+				"co",
+				"codigo"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"us",
+				"users"
+			],
+			[
+				"seria",
+				"serialization"
+			],
+			[
+				"li",
+				"libro_venta"
+			],
+			[
+				"pass",
+				"pass"
+			],
+			[
+				"lib",
+				"libro"
+			],
+			[
+				"ca",
+				"cart"
+			],
+			[
+				"array_k",
+				"array_key_exists"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"s",
+				"switch	switch …"
+			],
+			[
+				"precio",
+				"precio_venta"
+			],
+			[
+				"da",
+				"dataType"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"can",
+				"cant"
+			],
+			[
+				"cant",
+				"cant_libros"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"sele",
+				"seleccionarCategorias"
+			],
+			[
+				"Ma",
+				"ManejoLibrosController"
+			],
+			[
+				"Mane",
+				"ManejoLibrosController"
+			],
+			[
+				"Cuenta",
+				"cuentaSalida"
+			],
+			[
+				"cuenta",
+				"cuentaSalida"
+			],
+			[
+				"cate",
+				"categorias"
+			],
+			[
+				"cat",
+				"cat_libro"
+			],
+			[
+				"nuevos",
+				"nuevos"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"che",
+				"check"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"ma",
+				"make"
+			],
+			[
+				"m",
+				"m"
+			],
+			[
+				"U",
+				"urlData"
+			],
+			[
+				"ara",
+				"array"
+			],
+			[
+				"pts",
+				"ptsM1"
+			],
+			[
+				"solve",
+				"solvedE"
+			],
+			[
+				"solv",
+				"solvedE"
+			],
+			[
+				"id_",
+				"id_usuario"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"arti",
+				"articulos"
+			],
+			[
+				"ar",
+				"articulo"
+			],
+			[
+				"exi",
+				"existencias"
+			],
+			[
+				"a",
+				"articulo"
+			],
+			[
+				"Ubica",
+				"ubicaciones"
+			],
+			[
+				"se",
+				"serialization"
+			],
+			[
+				"modulo",
+				"moduloIII"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"tipo",
+				"tipo_empleado"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"rou",
+				"Route"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"ad",
+				"adwords"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"conta",
+				"contact-us"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"map",
+				"maps"
+			],
+			[
+				"mo",
+				"moduloIII"
+			],
+			[
+				"pading",
+				"padding-right"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"go",
+				"goBackward"
+			],
+			[
+				"No",
+				"NodeList"
+			],
+			[
+				"de",
+				"deleteNode"
+			],
+			[
+				"delete",
+				"deleteLast"
+			],
+			[
+				"lis",
+				"list"
+			],
+			[
+				"dele",
+				"deleteFirst"
+			],
+			[
+				"curr",
+				"current_node"
+			],
+			[
+				"cur",
+				"current_node"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"next",
+				"next_node"
+			],
+			[
+				"prev",
+				"prev_node"
+			],
+			[
+				"goT",
+				"goToStart"
+			],
+			[
+				"curre",
+				"current_node"
+			],
+			[
+				"pl",
+				"playList"
+			],
+			[
+				"N",
+				"NodeList"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"current",
+				"current_node"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"var",
+				"var_dump"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "routes.php",
+			"settings":
+			{
+				"buffer_size": 2157,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/layouts/base_layout.blade.php",
+			"settings":
+			{
+				"buffer_size": 6058,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/portfolio.blade.php",
+			"settings":
+			{
+				"buffer_size": 31382,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/contact.blade.php",
+			"settings":
+			{
+				"buffer_size": 6271,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/G/pages/nemotek/public/assets/css/custom.css",
+			"settings":
+			{
+				"buffer_size": 8140,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "Package Control: Ins",
+		"selected_items":
+		[
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 520.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/rod_m/Documents/dirAPI/app/DirMessage/Managers/UserUpdateManager.php",
+		"/C/Users/rod_m/Documents/dirAPI/app/DirMessage/Managers/UserRegisterManager.php",
+		"/C/Users/rod_m/Documents/dirAPI/app/DirMessage/Managers/BaseManager.php",
+		"/C/Users/rod_m/Documents/dirAPI/app/DirMessage/Helpers/DataValidator.php",
+		"/C/Users/rod_m/Documents/dirAPI/app/DirMessage/Entities/Country.php",
+		"/C/Users/rod_m/Documents/dirAPI/app/DirMessage/Entities/User.php",
+		"/G/pages/oinl/app/views/moduloIII/tareas.blade.php",
+		"/C/Users/rod_m/AppData/Local/Temp/asignacionDeEncuestas.php",
+		"/C/Users/rod_m/AppData/Local/Temp/mostrar_encuestador.php",
+		"/C/Users/rod_m/AppData/Local/Temp/habilitar_en.php",
+		"/C/Users/rod_m/AppData/Local/Temp/eliminar_encuestador.php",
+		"/C/Users/rod_m/AppData/Local/Temp/ver_encuestador.php",
+		"/C/Users/rod_m/AppData/Local/Temp/update.php",
+		"/C/Users/rod_m/Documents/dirAPI/app/DirMessage/Managers/AuthVerifier.php",
+		"/C/Users/rod_m/Documents/dirAPI/app/DirMessage/Helpers/UserPasswordValidator.php",
+		"/C/Users/rod_m/Documents/dirAPI/app/DirMessage/Helpers/JsonResponses.php",
+		"/G/pages/IEMM/app/routes.php",
+		"/G/pages/oinl_lalo/app/routes.php",
+		"/G/pages/oinl_lalo/app/controllers/AdminController.php",
+		"/G/pages/IEMM/app/controllers/IncomesController.php",
+		"/G/pages/IEMM/app/controllers/ExpenditureController.php",
+		"/G/pages/IEMM/app/controllers/ReportsController.php",
+		"/G/pages/IEMM/app/views/diezmos.blade.php",
+		"/G/pages/IEMM/app/views/registro_diezmo.blade.php",
+		"/G/pages/nemotek/public/assets/css/custom.css",
+		"/G/pages/nemotek/app/views/portfolio.blade.php",
+		"/G/pages/nemotek/app/views/index.blade.php",
+		"/C/Users/rod_m/Documents/dirAPI/tests/ExampleTest.php",
+		"/G/pages/IEMM/app/controllers/OutcomesController.php",
+		"/G/pages/oinl/app/controllers/ModuleIController.php",
+		"/G/pages/oinl/app/views/layouts/m1_layout.blade.php",
+		"/G/pages/oinl/app/views/moduloI/ejercicios.blade.php",
+		"/G/pages/nemotek/public/assets/css/bootstrap.min.css",
+		"/C/Users/rod_m/AppData/Roaming/Sublime Text 3/Packages/User/Karel/karel.sublime-completions",
+		"/C/Users/rod_m/AppData/Roaming/Sublime Text 3/Packages/User/Karel/karel.sublime-snippet",
+		"/C/Users/rod_m/AppData/Roaming/Sublime Text 3/Packages/User/Karel/karel.sublime-syntax",
+		"/C/Users/rod_m/AppData/Roaming/Sublime Text 3/Packages/User/Karel/karel.YAML-tmLanguage",
+		"/C/Users/rod_m/Documents/karel/prueba.k",
+		"/C/Users/rod_m/AppData/Roaming/Sublime Text 3/Packages/User/karel.sublime-snippet",
+		"/C/Users/rod_m/Documents/karel/tache.k",
+		"/C/Users/rod_m/Documents/karel/novia.k",
+		"/G/pages/selek/Prestashop.txt",
+		"/G/pages/kgd/index.html",
+		"/G/pages/oinl/app/views/index.blade.php",
+		"/G/pages/saba/registrar_e.php",
+		"/G/pages/saba/reg_encuesta.php",
+		"/G/pages/saba/validar.php",
+		"/G/pages/saba/asignacionDeEncuestas.php",
+		"/G/pages/saba/login.php",
+		"/G/pages/saba/conexion_bd.php",
+		"/G/pages/saba/php/conexion_bd.php",
+		"/G/pages/saba/php/db.php",
+		"/G/pages/saba/ajustes.php",
+		"/C/Users/rod_m/AppData/Roaming/Sublime Text 3/Packages/User/Karel.sublime-snippet",
+		"/C/Users/rod_m/AppData/Roaming/Sublime Text 3/Packages/Karel/karel.sublime-snippet",
+		"/C/Users/rod_m/AppData/Roaming/Sublime Text 3/Packages/Karel/karel.sublime-completions",
+		"/C/Users/rod_m/AppData/Roaming/Sublime Text 3/Packages/Karel/karel.sublime-syntax",
+		"/C/Users/rod_m/Desktop/karel/karel.sublime-completions",
+		"/C/Users/rod_m/Desktop/karel/karel.sublime-snippet",
+		"/C/Users/rod_m/Desktop/karel/karel.sublime-syntax",
+		"/C/Program Files/Sublime Text 3/Packages/C++.sublime-package",
+		"/C/Users/rod_m/Desktop/karel.sublime-syntax",
+		"/C/Users/rod_m/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/G/pages/nemotek/app/routes.php",
+		"/G/pages/oinl/public/assets/frontend/layout/css/custom.css",
+		"/G/pages/nemotek/app/views/emails/contact.blade.php",
+		"/G/pages/nemotek/app/views/about.blade.php",
+		"/G/pages/nemotek/app/views/emails/response.blade.php",
+		"/G/pages/nemotek/app/views/contact.blade.php",
+		"/F/rod_m_000/Ubuntu/Documents/diary",
+		"/G/pages/oinl/app/views/sede.blade.php",
+		"/G/pages/oinl/app/views/admin/sum_users.blade.php",
+		"/G/pages/oinl/app/views/layouts/main_layout.blade.php",
+		"/G/pages/oinl/public/assets/frontend/pages/scripts/contact-us.js",
+		"/G/pages/oinl/app/views/moduloIII/tutoriales.blade.php",
+		"/G/pages/PWS/app/routes.php",
+		"/G/pages/nemotek/app/config/mail.php",
+		"/G/pages/nemotek/app/views/suport.blade.php",
+		"/G/pages/PWS/app/views/emails/response.blade.php",
+		"/G/pages/PWS/app/views/emails/contact.blade.php",
+		"/G/pages/PWS/app/views/emails/template.blade.php",
+		"/G/pages/nemotek/app/views/gallery.blade.php",
+		"/G/pages/nemotek/app/views/layouts/base_layout.blade.php",
+		"/G/pages/PWS/app/config/mail.php",
+		"/G/pages/oinl/app/routes.php",
+		"/G/pages/oinl/public/assets/admin/layout/scripts/extras.js",
+		"/G/pages/oinl/app/views/admin/upload_mdos.blade.php",
+		"/G/pages/oinl/app/controllers/ModuleIIIController.php",
+		"/G/pages/estimacion/app/controllers/A2Controller.php",
+		"/C/Users/rod_m/Documents/correos_maestros",
+		"/G/pages/oinl/app/controllers/AdminController.php",
+		"/G/pages/estimacion/app/routes.php",
+		"/C/Users/rod_m/Downloads/mundo1.out",
+		"/C/Users/rod_m/Downloads/mundo1.in",
+		"/G/pages/estimacion/app/views/mike.blade.php",
+		"/G/pages/estimacion/app/views/A2.blade.php",
+		"/G/pages/oinl/app/views/moduloIII/problema.blade.php",
+		"/G/pages/oinl/app/views/admin/users.blade.php",
+		"/G/pages/oinl/vendor/composer/installed.json",
+		"/G/pages/estimacion/app/controllers/A3Controller.php",
+		"/G/pages/estimacion/app/views/resultA4.blade.php",
+		"/G/pages/estimacion/app/controllers/A4Controller.php",
+		"/G/pages/estimacion/app/views/A4.blade.php",
+		"/G/pages/estimacion/app/views/formA4.blade.php",
+		"/G/pages/estimacion/public/assets/js/scripts.js",
+		"/G/pages/estimacion/app/views/resultA3.blade.php",
+		"/G/pages/estimacion/app/views/formA4.blade",
+		"/G/pages/estimacion/app/controllers/HomeController.php",
+		"/G/pages/estimacion/app/views/formA3.blade.php",
+		"/G/pages/estimacion/app/views/A3.blade.php",
+		"/G/pages/estimacion/app/controllers/A2Controller_prueba.php",
+		"/G/pages/estimacion/app/views/result.blade.php",
+		"/G/pages/estimacion/app/views/index.blade.php",
+		"/G/pages/estimacion/app/views/formA3",
+		"/G/pages/estimacion/app/views/form.blade.php",
+		"/G/pages/estimacion/public/assets/css/custom.css",
+		"/G/pages/estimacion/app/views/layouts/base_layout.blade.php",
+		"/G/pages/estimacion/app/views/reporte_A2.blade.php",
+		"/C/Users/rod_m/AppData/Local/Temp/Rar$DIa0.300/Program.cs",
+		"/G/pages/estimacion/app/views/a2.blade.php",
+		"/G/pages/estimacion/app/views/result_A2.blade.php",
+		"/G/pages/IEMM/app/views/ofrendas.blade.php",
+		"/C/Users/rod_m/AppData/Local/Temp/Rar$DIa0.037/custom.css",
+		"/C/Users/rod_m/AppData/Local/Temp/Rar$DIa0.395/routes.php",
+		"/G/pages/estimacion/app/controllers/BaseController.php",
+		"/C/Users/rod_m/AppData/Local/Temp/Rar$DIa0.386/ManejoAlumnosController.php",
+		"/C/Users/rod_m/AppData/Local/Temp/Rar$DIa0.440/index.blade.php",
+		"/C/Users/rod_m/AppData/Local/Temp/Rar$DIa0.354/routes.php"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"col-sm-6 text-center",
+			"collapseNGF",
+			"headingNGF",
+			"a.collapse-trigger:hover > div{\n    \n    margin: -1px -6px -2px -6px;\n    border-radius: 4px;\n    background-color: rgba(123, 180, 153, 0.14);\n}",
+			"collapseOne",
+			"headingOne",
+			"triger",
+			"collapseExample",
+			"estado",
+			"\\",
+			"bottom",
+			"settings",
+			"messages",
+			"profile",
+			"home",
+			"outline: thin dotted;",
+			"`",
+			"tipo_empleado",
+			"\"\";",
+			"{ \"trigger\": \"next\", \"contents\": \"nextToABeeper();\" },\n      { \"trigger\": \"!next\", \"contents\": \"!nextToABeeper();\" },",
+			"'];\n",
+			"checkbox-inline",
+			"label",
+			"class",
+			"h4",
+			"stop",
+			"1F9557",
+			"1F9539",
+			".service-box:hover h2 {\n    color: #02D556;\n}\n",
+			"<section class=\"portfolio-single\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-12\">\n                    <div class=\"portfolio-single-img col-sm-5\">\n                        <img class=\"img-responsive\" alt=\"\" src=\"/assets/images/portfolio/post-1.jpg\">\n                    </div>\n                    <div class=\"col-sm-7\">\n                        <div class=\"list-group\">\n                            <a href=\"#\" class=\"list-group-item\">\n                                <h4 class=\"list-group-item-heading\">\n                                    <i class=\"fa fa-check text-primary\"></i>\n                                    Desarrollo de sistemas computacionales a la medida.\n                                </h4>\n                                <p class=\"list-group-item-text\">List Group Item Text</p>\n                            </a>\n                            <a href=\"#\" class=\"list-group-item\">\n                                <h4 class=\"list-group-item-heading\">\n                                    <i class=\"fa fa-check text-primary\"></i>\n                                    Planeación y auditoría de informática\n                                </h4>\n                                <p class=\"list-group-item-text\">List Group Item Text</p>\n                            </a>\n                            <a href=\"#\" class=\"list-group-item\">\n                                <h4 class=\"list-group-item-heading\">\n                                    <i class=\"fa fa-check text-primary\"></i>\n                                    Desarrollo de procedimientos administrativos\n                                </h4>\n                                <p class=\"list-group-item-text\">List Group Item Text</p>\n                            </a>\n                            <a href=\"#\" class=\"list-group-item\">\n                                <h4 class=\"list-group-item-heading\">\n                                    <i class=\"fa fa-check text-primary\"></i>\n                                    Reingeniería de proyectos\n                                </h4>\n                                <p class=\"list-group-item-text\">List Group Item Text</p>\n                            </a>\n                            <a href=\"#\" class=\"list-group-item\">\n                                <h4 class=\"list-group-item-heading\">\n                                    <i class=\"fa fa-check text-primary\"></i>\n                                    Operación integral de centros de Informatica\n                                </h4>\n                                <p class=\"list-group-item-text\">List Group Item Text</p>\n                            </a>\n                        </div>\n                    </div>\n                 \n                </div>\n            </div>\n        </div>\n    </section>",
+			"h3",
+			"ln",
+			"$lns = array('a'=>0,'b'=>0,'r'=>0,'m'=>0,'d'=>0);",
+			"stripos",
+			" \";",
+			"</td>",
+			"<td>",
+			"//",
+			"$item",
+			"'];\n",
+			"if(stripos($linea, \"//Ln Base\")||stripos($linea, \"<!-- Ln Base\")) array_push($ln, \"b\");\n				if(stripos($linea, \"//Ln Base End\")||stripos($linea, \"<!-- Ln Base End\")) array_pop($ln);",
+			"$",
+			");\n",
+			".children",
+			"datatables",
+			"cdn.",
+			"dataTables",
+			"<<<<<<<head",
+			":",
+			"../..",
+			"sum-",
+			"\");\n",
+			"../..",
+			"sample_3",
+			"ofrenda",
+			"diezmo",
+			"ofrenda",
+			"../..",
+			"control",
+			"br",
+			"d",
+			"control",
+			"ini_set(",
+			"error",
+			"display_errors",
+			"images/",
+			"single-portfolio.html",
+			"post-fullwidth.html",
+			"single-post.html",
+			"post-fullwidth.html",
+			"single-post.html",
+			"images",
+			"/images",
+			"images/",
+			"allies",
+			"\"assets",
+			"/clients/",
+			"images/",
+			"rgb(0, 164, 186)",
+			"00A4BA",
+			".html",
+			"js/",
+			"css/",
+			">\n",
+			"options",
+			">\n",
+			"Analythics",
+			"fa-pencil",
+			"\"",
+			"\");\n",
+			"h4",
+			"h3",
+			"accordion",
+			"<div class=\"row\">\n                <div class=\"col-sm-9\">\n                    <h3>Análisis de tráfico con herramientas profesionales</h3>\n                    <p>\n                        Auditoría de la estructura de la web para analizar si es amigable y \n                        si contiene todo lo necesario para posicionarse adecuadamente.\n                    </p>\n                </div>\n            </div>",
+			"page-content",
+			" class=\"service-container\"",
+			"img",
+			"css",
+			"red",
+			"alert",
+			"<a  ",
+			"<div class=\"portlet-body text-center\">",
+			"Route::get('moduloIII/problema/{id}', array('uses' => 'ModuleIIIController@problema'));",
+			"'));\n",
+			"layout2",
+			"../..",
+			"</td>",
+			"<td>",
+			">\n",
+			"();\n",
+			"echo $list->getCurrentData().\" \";\n					$list->goBackward();",
+			"\">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"col-sm-6 text-center service-box",
+			"collapseMS",
+			"headingMS",
+			"collapseSR",
+			"headingSR",
+			"trigger",
+			"collapseSeguridadRed",
+			"/",
+			"top",
+			"tab4",
+			"tab3",
+			"tab2",
+			"tab1",
+			"",
+			"text-center",
+			"td",
+			"p",
+			"1F9547",
+			"1F9557",
+			"h2",
+			"$lns = array('a'=>0,'b'=>0,'r'=>0,'m'=>0,'d'=>0,'c'=>0);",
+			"strpos",
+			"($pos = stripos",
+			"</strong></td>",
+			"<td><strong>",
+			"*",
+			"$partes[$total_p]",
+			"var $",
+			".contents().find",
+			"=>",
+			"",
+			"load-sum-",
+			"",
+			"table",
+			"egreso",
+			"diezmo",
+			"",
+			"/assets/images/",
+			"/proyecto",
+			"post",
+			"/assets/images",
+			"/images/",
+			"allies_crop",
+			"\"/assets",
+			"/allies/",
+			"assets/images/",
+			"#1F9539",
+			"1F9539",
+			"",
+			"assets/js/",
+			"assets/css/",
+			"option",
+			"Analytics",
+			"fa-save",
+			"'",
+			"h4 class=\"text-primary\"",
+			"h4 class=\"text-primary",
+			"h4 class=\"text-primary\"",
+			"h4",
+			"",
+			"/assets/img",
+			"/assets/css",
+			"#fff",
+			"console.log",
+			"<a class=\"btn btn-block blue-houki\"",
+			"",
+			"layout",
+			"",
+			"</h4></td>",
+			"<td><h4>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/layouts/base_layout.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6058,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1388.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/portfolio.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1810.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "views/contact.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6162,
+								6162
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1880.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/G/pages/nemotek/public/assets/css/custom.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1381.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "routes.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

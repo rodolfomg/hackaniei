@@ -1,0 +1,40 @@
+<?php $__env->startSection('content'); ?>
+    <section id="login-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 col-sm-offset-2">
+                    <div class="block">
+                        <h1 class="subtitle wow fadeInDown text-grey" data-wow-duration="500ms" data-wow-delay=".3s">
+                            Inicio de sesión
+                        </h1>
+                        <p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">
+                            Ingresa tus datos para ingresar a la sección de administración.
+                        </p>
+                        <div class="contact-form">
+                            <form id="contact-form" method="post" action="" role="form">
+                    
+                                <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".6s">
+                                    <input type="text" placeholder="Nombre" class="form-control" name="name" id="name">
+                                </div>
+                                
+                                <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".8s">
+                                    <input type="email" placeholder="Correo" class="form-control" name="email" id="email" >
+                                </div>
+                                
+                                <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1s">
+                                    <input type="password" placeholder="Ingresa tu contraseña" class="form-control" name="password" id="password">
+                                </div>
+                                
+                                <div id="submit" class="wow fadeInDown text-right" data-wow-duration="500ms" data-wow-delay="1.4s">
+                                    <input type="" id="contact-submit" class="btn btn-send" value="Iniciar sesión">
+                                </div>                      
+                                
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.base_layout', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

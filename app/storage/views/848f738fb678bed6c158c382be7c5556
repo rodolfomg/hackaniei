@@ -1,0 +1,7 @@
+<form class="form-inline" id="form-data">
+	<?php for($i=1; $i <= $n; $i++): ?>
+		<div class="col-xs-10 col-offset-xs-1 text-center form-group data">
+			<input type="text" class="form-control" id="<?php echo $i; ?>" placeholder="0">
+		</div>
+	<?php endfor; ?>
+</form>

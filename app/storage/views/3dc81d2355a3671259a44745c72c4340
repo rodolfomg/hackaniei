@@ -1,0 +1,81 @@
+
+
+<?php $__env->startSection('content'); ?>
+    <section id="page-separator" class="global-page-header">
+    </section><!--/#Page header-->
+
+    <section class="">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-9">
+                    <h1>Assessment</h1><hr>
+                </div>
+            </div>
+            <div class="row bottom-30">
+                <div class="col-md-9">
+                    <p>
+                        Realizamos un analisis completo de las posibles vulnerabilidades de su empresa con el objetivo 
+                        de encontrar áreas de mejora para la empresa que puedan conducir a una mejora en la seguridad 
+                        de la misma, ya sea contra atacantes externos, o atacantes infiltrados en la empresa.
+                    </p>
+                    <div class="row">
+                        <div class="col-md-5 col-md-offset-0 col-sm-offset-2 col-sm-8">
+                            <img src="/assets/images/services/InformationSecurity.jpg" width="100%" alt="">
+                        </div>
+                        <div class="col-md-7 col-sm-12">
+                            <h4>Multiples pruebas respaldan el diagnóstico.</h4>
+                            <p>
+                                Realizamos una serie de pruebas para asegurarnos de cubrir todas las posibles brechas de 
+                                seguridad dentro de la empresa, y definir si han ocurrido infiltraciones en el pasado, así 
+                                como la gravedad de las mismas.
+                            </p>
+                            <p><b><i>Pruebas que corremos dentro de nuestro servicio:</i></b></p>
+                            <ul class="fa-ul">
+                                <li><i class="fa fa-caret-right"></i> Auditoría y análisis de código.</li>
+                                <li><i class="fa fa-caret-right"></i> Hackeo Ético / Pruebas de penetración.</li>
+                                <li><i class="fa fa-caret-right"></i> Análisis de vulnerabilidades.</li>
+                                <li><i class="fa fa-caret-right"></i> Ingeniería Social.</li>
+                                <li><i class="fa fa-caret-right"></i> Análisis forense.</li>
+                                <li><i class="fa fa-caret-right"></i> E-Crime / Red Team.</li>
+                            </u>
+                        </div>
+                        <div class="col-sm-12">
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3 hidden-xs hidden-sm">
+                    <ul class="nav nav-tabs vertical-tabs" role="tablist">
+                        <li role="presentation"><h4>Soluciones</h4></li>
+                        <li role="presentation">
+                            <a href="/servicios/assessment" aria-controls="tab1">
+                                <i class="fa fa-chevron-right"></i> Assessment
+                            </a>
+                        </li>
+                        <li role="presentation">
+                            <a href="/servicios/data-protection" aria-controls="tab2">
+                                Data Protection
+                            </a>
+                        </li>
+                        <li role="presentation">
+                            <a href="/servicios/compliance" aria-controls="tab3">
+                                Compliance
+                            </a>
+                        </li>
+                        <li role="presentation">
+                            <a href="/servicios/soc-cert" aria-controls="tab4">
+                                SOC - CERT
+                            </a>
+                        </li>
+                        <li role="presentation">
+                            <a href="/servicios/planeacion" aria-controls="tab5">
+                                Planeación y Gestión de Recursos
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.base_layout', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

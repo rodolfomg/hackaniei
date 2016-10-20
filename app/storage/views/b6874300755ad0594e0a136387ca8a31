@@ -1,0 +1,226 @@
+<?php $__env->startSection('slider'); ?>
+<!-- BEGIN SLIDER -->
+<div class="page-slider margin-bottom-40">
+  <div class="fullwidthbanner-container revolution-slider">
+	<div class="fullwidthabnner">
+	  <ul id="revolutionul">
+		<!-- AVISOS --> 
+
+		<!-- INTRO -->
+		<li data-transition="fade" data-slotamount="8" data-masterspeed="700" data-delay="9400" data-thumb="assets/frontend/pages/img/revolutionslider/thumbs/thumb2.jpg">
+		  <!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
+		  <img src="/assets/frontend/pages/img/revolutionslider/bg9.jpg" alt="">
+		  
+		  <div class="caption lft slide_title_white slide_item_left"
+			data-x="100"
+			data-y="150"
+			data-speed="400"
+			data-start="1500"
+			data-easing="easeOutExpo"
+			style="font-size:38px;">
+			Robotica Virtual
+		  </div>
+		  <div class="caption lft slide_subtitle_white slide_item_left"
+			data-x="220"
+			data-y="245"
+			data-speed="400"
+			data-start="2000"
+			data-easing="easeOutExpo">
+			Bienvenido
+		  </div>                     
+		  <div class="caption lfb"
+			data-x="620" 
+			data-y="40" 
+			data-speed="700" 
+			data-start="1000" 
+			data-easing="easeOutExpo">
+			<img src="/assets/img/slider/medalla_Diego.jpg" width="32%" alt="Image 1">
+		  </div>
+		</li> 
+		
+		<!-- MODULO I -->
+		<li data-transition="fade" data-slotamount="8" data-masterspeed="700" data-delay="9400" data-thumb="assets/frontend/pages/img/revolutionslider/thumbs/thumb2.jpg">
+		  <!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
+		  <img src="/assets/frontend/pages/img/revolutionslider/bg1.jpg" alt="">
+						
+		  <div class="caption lft slide_item_left"
+			data-x="30"
+			data-y="105"
+			data-speed="400"
+			data-start="1500"
+			data-easing="easeOutExpo"
+			style="font-size:38px">
+			Contancia de la medalla de Oro
+		  </div>
+		  <div class="caption lft slide_desc slide_item_left"
+			data-x="30"
+			data-y="170"
+			data-speed="400"
+			data-start="2000"
+			data-easing="easeOutExpo"
+			style="font-size:25px;line-height:35px">
+			Constancia de la medalla de oro obtenida por <br />
+			Diego Roque Montoya, olímpico de Nuevo León, <br />
+			en la 26a Olimpiada Internacional de Informática. <br />
+			Primer medalla de Oro obtenida a nivel Internacional.
+		  </div>
+		  <div class="caption lfb"
+			data-x="660" 
+			data-y="55" 
+			data-speed="700" 
+			data-start="1000" 
+			data-easing="easeOutExpo">
+			<img src="/assets/img/slider/const_Diego.jpg" width="33%" alt="Image 1">
+		  </div>
+		</li>
+		
+		<!-- MODULO II -->
+		<li data-transition="fade" data-slotamount="8" data-masterspeed="700" data-delay="9400" data-thumb="assets/frontend/pages/img/revolutionslider/thumbs/thumb2.jpg">
+		  <img src="/assets/frontend/pages/img/revolutionslider/bg3.jpg" alt="">
+		  <div class="caption lfl slide_item_left" 
+			data-x="650" 
+			data-y="30" 
+			data-speed="400" 
+			data-start="1500" 
+			data-easing="easeOutBack">
+			<img src="/assets/img/slider/DiegoGRB.jpg" width="35%"style="border:0"></assets/img> 
+		  </div>
+		  <div class="caption lfl slide_title"
+			data-x="30"
+			data-y="120"
+			data-speed="400"
+			data-start="2000"
+			data-easing="easeOutExpo">
+			IOI Taiwan
+		  </div>
+		  <div class="caption lfl slide_desc"
+			data-x="30"
+			data-y="180"
+			data-speed="400"
+			data-start="2500"
+			data-easing="easeOutExpo"
+			style="font-size:25px;line-height:35px">
+			Diego Roque Montoya junto con el delegado <br />
+			de Nuevo León Gilberto Reyes Barrera tras <br />
+			haber obtenido su medalla de oro.
+		  </div>
+		</li>               
+		
+		<!-- MODULO III -->
+		<!--li data-transition="fade" data-slotamount="7" data-masterspeed="300" data-delay="9400" data-thumb="assets/frontend/pages/img/revolutionslider/thumbs/thumb2.jpg">                        
+		  <img src="/assets/frontend/pages/img/revolutionslider/bg2.jpg" alt="">
+		  <div class="caption lfl slide_title slide_item_left"
+			data-x="30"
+			data-y="125"
+			data-speed="400"
+			data-start="3500"
+			data-easing="easeOutExpo">
+			Modulo III
+		  </div>
+		  <div class="caption lfl slide_subtitle slide_item_left"
+			data-x="30"
+			data-y="200"
+			data-speed="400"
+			data-start="4000"
+			data-easing="easeOutExpo">
+			 Robótica virtual avanzada 
+		  </div>
+		  <div class="caption lfl slide_desc slide_item_left"
+			data-x="30"
+			data-y="245"
+			data-speed="400"
+			data-start="4500"
+			data-easing="easeOutExpo">
+			Utiliza un conjunto de instrucciones y comandos para programar <br/>un robot virtual para resolver los ejercicios y retos que se presentan.
+		  </div>      
+			<a class="caption lfl btn purple slide_btn" href="http://omegaup.com" target="_blank"
+				data-x="30"
+				data-y="330"
+				data-speed="400"
+				data-start="5000"
+				data-easing="easeOutExpo">
+				Ir ahora
+			</a>
+		  <div class="caption lfr slide_item_right" 
+			data-x="620" 
+			data-y="50" 
+			data-speed="1200" 
+			data-start="1500" 
+			data-easing="easeOutBack">
+			<img src="/assets/img/codigo_karel.PNG" height="342" width="300" alt="Image 1">
+		  </div>
+		  <div class="caption lfr slide_item_right" 
+			data-x="880" 
+			data-y="200" 
+			data-speed="1200" 
+			data-start="2000" 
+			data-easing="easeOutBack">
+			<img src="/assets/img/piramide.PNG" height="196" width="289" alt="Image 1">
+		  </div>
+		</li>
+					
+		<!-- MODULO IV -->
+		<!--li data-transition="fade" data-slotamount="8" data-masterspeed="700" data-delay="9400" data-thumb="assets/frontend/pages/img/revolutionslider/thumbs/thumb2.jpg">
+			<img src="/assets/frontend/pages/img/revolutionslider/bg4.jpg" alt="">                        
+			<div class="caption lft slide_title"
+				 data-x="30"
+				 data-y="105"
+				 data-speed="400"
+				 data-start="1500"
+				 data-easing="easeOutExpo">
+				 Modulo IV
+			</div>
+			<div class="caption lft slide_subtitle"
+				 data-x="30"
+				 data-y="180"
+				 data-speed="400"
+				 data-start="2000"
+				 data-easing="easeOutExpo">
+				 Taller de programación en lenguaje C 
+			</div>
+			<div class="caption lft slide_desc"
+				 data-x="30"
+				 data-y="225"
+				 data-speed="400"
+				 data-start="2500"
+				 data-easing="easeOutExpo">
+				 A través de un lenguaje de programación de alto nivel <br/>podrás resolver problemas de la vida real
+			</div>
+			<a class="caption lft slide_btn btn red slide_item_left" href="http://omegaup.com" target="_blank"
+				 data-x="30"
+				 data-y="300"
+				 data-speed="400"
+				 data-start="3000"
+				 data-easing="easeOutExpo">
+				 Ir ahora
+			</a>                        
+			<div class="caption lft start"  
+				 data-x="560" 
+				 data-y="55" 
+				 data-speed="400" 
+				 data-start="2000" 
+				 data-easing="easeOutBack"  >
+				 <img src="/assets/img/codigo.PNG" alt="Image 2">
+			</div>
+			
+			<div class="caption lft start"  
+				 data-x="900" 
+				 data-y="100" 
+				 data-speed="400" 
+				 data-start="2400" 
+				 data-easing="easeOutBack"  >
+				 <img src="/assets/img/desp.PNG" height="288" width="233" alt="Image 3">
+			</div>                        
+		</li>
+		</ul>
+		<div class="tp-bannertimer tp-bottom"></div>
+	</div>
+   </div>
+</div>
+<!-- END SLIDER -->
+<?php $__env->stopSection(); ?>
+
+<?php $__env->startSection('content'); ?>
+
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make("layouts.main_layout", array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

@@ -1,0 +1,27 @@
+<?php $__env->startSection('content'); ?>
+    <section class="moduler wrapper_404">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="text-center">
+                        <h1 class="wow fadeInUp animated cd-headline slide" data-wow-delay=".4s" >
+                            404
+                        </h1>
+                        <h2 class="wow fadeInUp animated" data-wow-delay=".6s">
+                            Opps! No encontramos lo que buscas.
+                        </h2>
+                        <p class="wow fadeInUp animated" data-wow-delay=".9s">
+                            Es posible que la página haya sido renombrada, movida o que nunca haya existido. <br>
+                            Por favor verifica la dirección a la que deseas ingresar o envíanos un correo 
+                            para resolver tus dudas a nuestro <a href="/contacto">contacto</a>
+                        </p>
+                        <a href="/" class="btn btn-dafault btn-home wow fadeInUp animated" data-wow-delay="1.1s">
+                            Ir a Inicio
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.base_layout', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

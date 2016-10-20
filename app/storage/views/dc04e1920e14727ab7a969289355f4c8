@@ -1,0 +1,65 @@
+<?php $__env->startSection('title'); ?>
+<h1>Módulo IV</h1>
+<?php $__env->stopSection(); ?>
+
+<?php $__env->startSection('left-sidebar'); ?>
+	<h2>Compiladores de C/C++</h2>
+	<h4>
+		Ya estas en el Modulo IV; Taller de Lenguaje de Programacion C/C++.<br>
+		Dentro de este módulo desarrollarás la habilidad de resolver problemas,
+		escribiendo programas en el Lenguaje de programacion C/C++, para lograr 
+		este objetivo harás uso de una herramienta llamada compilador.
+	</h4><br />
+	<h3 class="text-primary">Compilador</h3>
+	<h4>
+		Un compilador es un programa informático que traduce un programa escrito 
+		en un lenguaje de programación a otro lenguaje de programación. 
+		Usualmente el segundo lenguaje es lenguaje de máquina, pero también puede 
+		ser un código intermedio (bytecode), o simplemente texto. Este proceso de 
+		traducción se conoce como compilación.
+	</h4><br />
+	<h3 class="text-primary">IDE</h3>
+	<h4>
+		A continuación te presentamos algunos IDE (Entorno de Desarrollo Integrado)
+		que nos permiten escribir programas en lenguaje C o C++ en un ambiente gráfico
+		e incluyen un compilador para poder compilar y ejecutar los programas en tu computadora.
+	</h4>
+	<hr class="blog-post-sep">
+	<div class="row">
+		<a href="http://zinjai.sourceforge.net/index_en.php?page=descargas.php" target="_blank">
+			<div class="col-md-4 col-sm-4 text-center">
+				<img src="/assets/moduloIV/img/zinjai.png" width="100%" alt="ZinjaI" />
+			</div>
+			<div class="col-md-8 col-sm-8">
+				<div class="row">
+					<div class="col-md-12 col-sm-12">
+						<h4 class="">
+							 Este IDE es recomendable para compilar tus primeros programas,
+							 puede convertir tu código en un diagrama de flujo.
+						</h4>
+					</div>
+				</div>
+			</div>
+		</a>
+	</div>
+	<hr class="blog-post-sep">
+	<div class="row">
+		<a href="http://www.codeblocks.org/downloads/26" target="_blank">
+			<div class="col-md-4 col-sm-4 text-center">
+				<img src="/assets/moduloIV/img/codeblocks.png" width="100%"  alt="CodeBlocks" />
+			</div>
+			<div class="col-md-8 col-sm-8">
+				<div class="row">
+					<div class="col-md-12 col-sm-12">
+						<h4 class="">
+							 Este IDE es recomendable para aquellos que tengan más
+							 experiencia programando en C y C++, o para realizar 
+							 proyectos un poco más robustos.
+						</h4>
+					</div>
+				</div>
+			</div>
+		</a>
+	</div>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.m4_layout', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

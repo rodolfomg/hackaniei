@@ -1,0 +1,107 @@
+<?php $__env->startSection('content'); ?>
+    <section class="global-page-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="block">
+                        <h2>Nuestros Servicios</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section><!--/#Page header-->
+
+    <section class="">
+        <div class="container">
+            <div id="services-op" class="row bottom-30">
+                <div id="admin" class="col-xs-6 text-center">
+                    <a href="/servicios/gestion-recursos">
+                        ADMIN <br>
+                        <small>Gestion de Recursos Gubernamentales</small>
+                    </a>
+                </div>
+                <div class="col-xs-6 text-center">
+                    <a href="#seguridad">Soluciones de seguridad</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="seguridad">
+        <div class="container">
+            <div class="row top-100 bottom-20">
+                <div class="col-xs-12">
+                    <h1>Soluciones de seguridad</h1>
+                    <p>
+                        Nemotek ofrece un portafolio robusto para satisfacer las necesidades tecnológicas y de seguridad
+                        de la información de pequeñas, medianas y grandes empresas. Contamos con un equipo de 
+                        ingenieros certificados para apoyar a nuestros clientes desde el diseño hasta la puesta a punto de 
+                        cada proyecto, buscando siempre soluciones de valor y construyendo relaciones de largo plazo 
+                        con nuestros clientes.
+                    </p>
+                </div>
+            </div>
+            <div class="row bottom-30">
+                <div class="col-sm-6">
+                    <a id="assessment" href="/servicios/assessment" class="service">
+                        <div class="col-xs-5">
+                            <img src="/assets/images/services/InformationSecurity.jpg" alt="Information Security" width="100%">
+                        </div>
+                        <div class="col-xs-7">
+                            <h3>Assessment</h3>
+                            <p>
+                                Ofrecemos un servicio de auditorías de código y analisis de vulnerabilidades con el 
+                                objetivo de proporcionar un diagnostico de la seguridad de la organización.
+                            </p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-sm-6">
+                    <a id="data-protection" href="/servicios/data-protection" class="service">
+                        <div class="col-xs-5">
+                            <img src="/assets/images/services/hacker.jpg" alt="Data Protction" width="100%">
+                        </div>
+                        <div class="col-xs-7">
+                            <h3>Data Protection</h3>
+                            <p>
+                                Ponemos a tu disposición estrategias para la protección de tus datos, como 
+                                enmascaramiento y cifrado de datos y aplicaciones, almacenamiento seguro.
+                            </p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6">
+                    <a id="compliance" href="/servicios/compliance" class="service">
+                        <div class="col-xs-5">
+                            <img src="/assets/images/services/Compliance.jpg" alt="Compliance" width="100%">
+                        </div>
+                        <div class="col-xs-7">
+                            <h3>Compliance</h3>
+                            <p>
+                                Asesoría y acompañamiento con el objetivo de ayudar a cumplir con las regulaciones
+                                implementadas por programas legislativos y certificaciones.
+                            </p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-sm-6">
+                    <a id="soc-cert" href="/servicios/soc-cert" class="service">
+                        <div class="col-xs-5">
+                            <img src="/assets/images/services/controls-computer-room.jpg" alt="Soc Cert" width="100%">
+                        </div>
+                        <div class="col-xs-7">
+                            <h3>SOC / CERT Services</h3>
+                            <p>
+                                Monitoreo de dispositivos de seguridad y vigilancia digital, para proveer respuesta 
+                                a incidentes de seguridad y prevenir fraudes ciberneticos.
+                            </p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.base_layout', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

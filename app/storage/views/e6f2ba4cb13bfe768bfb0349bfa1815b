@@ -1,0 +1,453 @@
+<?php $__env->startSection('content'); ?>
+    <section class="global-page-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="block">
+                        <h2>Nuestros Servicios</h2>
+                        <!--div class="portfolio-meta">
+                           <span>Dec 11, 2020</span>|
+                           <span> Category: typography</span>|
+                           <span> website: <a href="http://www.themefisher.com">Themefisher</a></span>
+                        </div-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section><!--/#Page header-->
+
+    <section class="portfolio-single">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <a class="collapse-trigger" role="button" data-toggle="collapse" href="#collapseSeguridadRed" aria-expanded="false" aria-controls="collapseSeguridadRed">
+                        <div>
+                            <h3>Seguridad en la Red</h3>
+                            <p>En la lucha contra las amenazas, el tiempo es muy valioso. Nuestras soluciones de seguridad de redes te permiten prevenir el acceso no autorizado a intrusos, así como detectar y bloquear actividades malintencionadas y software malicioso.</p>
+                        </div>
+                    </a>
+                    <div class="collapse" id="collapseSeguridadRed">
+                      <div class="well">
+                        <p>
+                            Nemotek cuenta con un portafolio de productos y servicios especializados destinados a 
+                            ofrecerle una seguridad integral y a proteger los activos más valiosos de su organización.
+                        </p>
+                      </div>
+                    </div>
+
+                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                        <div class="panel"><!-- SEGURIDAD EN REDES -->
+                            <div class="" role="tab" id="headingSR">
+                                <a class="collapse-trigger" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSR" aria-expanded="false" aria-controls="collapseSR">
+                                    <div class="row">
+                                        <div class="col-md-2 col-sm-3">
+                                            <img src="/assets/images/services/security/sr.jpg" alt="Seguridad de Redes" width="100%">
+                                        </div>
+                                        <div class="col-md-10 col-sm-9">
+                                            <h3>Seguridad en la Red</h3>
+                                            <p>En la lucha contra las amenazas, el tiempo es muy valioso. Nuestras soluciones de seguridad de redes te permiten prevenir el acceso no autorizado a intrusos, así como detectar y bloquear actividades malintencionadas y software malicioso.</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div id="collapseSR" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSR">
+                                <div class="panel-body row">
+                                    <div class="col-sm-6 text-center service-box">
+                                        <img src="/assets/images/services/security/firewall.jpg" alt="NGF" width="38%">
+                                        <h4>Next Generation Firewall</h4>
+                                        <p>
+                                            Los Firewalls de nueva generación ofrecen seguridad multiniveles, 
+                                            que te permiten detectar vulnerabilidades antes de tiempo para 
+                                            tomar acciones.
+                                        </p>
+                                    </div>
+                                    <div class="col-sm-6 text-center service-box">
+                                        <img src="/assets/images/services/security/security.jpg" alt="UTM" width="30%">
+                                        <h4>Unified Threat Management</h4>
+                                        <p>
+                                            La Gestión de Amenazas Unificadas (UTM) es una plataforma de seguridad de 
+                                            redes que te permite proteger tu información a traves de multiples soluciones
+                                            de redes.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel"><!-- Mobile Security -->
+                            <div class="" role="tab" id="headingMS">
+                                <a class="collapse-trigger" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMS" aria-expanded="false" aria-controls="collapseSR">
+                                    <div class="row">
+                                        <div class="col-md-2 col-sm-3">
+                                            <img src="/assets/images/services/security/mobile-security.png" alt="Seguridad de Redes" width="100%">
+                                        </div>
+                                        <div class="col-md-10 col-sm-9">
+                                            <h3>Mobile Device Management</h3>
+                                            <p>Tener el control, monitoreo y la visibilidad de los dispositivos móviles (smartphones, tablets, laptops, etc.) es una tranquilidad. Nuestra solución te permite monitorear el comportamiento inusual de la red, así como descubrir y responder a ataques más rápido. </p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div id="collapseMS" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingMS">
+                                <div class="panel-body row">
+                                    <div class="col-sm-6 text-center service-box">
+                                        <img src="/assets/images/services/security/cybersecurity-icon.png" alt="MS" width="20%">
+                                        <h4>Criptografía</h4>
+                                        <p>
+                                            Texto de prueba, categoría creada con fines de muestra dentro de la página.
+                                        </p>
+                                    </div>
+                                    <div class="col-sm-6 text-center service-box">
+                                        <img src="/assets/images/services/security/security-shield.png" alt="MS" width="30%">
+                                        <h4>Unified Threat Management</h4>
+                                        <p>
+                                            La Gestión de Amenazas Unificadas (UTM) es una plataforma de seguridad de 
+                                            redes que te permite proteger tu información a traves de multiples soluciones
+                                            de redes.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel"><!-- Almacenamiento Encriptado -->
+                            <div class="" role="tab" id="headingAE">
+                                <a class="collapse-trigger" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseAE" aria-expanded="false" aria-controls="collapseSR">
+                                    <div class="row">
+                                        <div class="col-md-2 col-sm-3 text-center">
+                                            <img src="/assets/images/services/security/data_encryption.png" alt="Seguridad de Redes" width="80%">
+                                        </div>
+                                        <div class="col-md-10 col-sm-9">
+                                            <h3>Almacenamiento Encriptado</h3>
+                                            <p>Protege la información sensible, estrategias de negocio, propiedad intelectual, expedientes clínicos entre otros con nuestras soluciones de discos duros, USBs, CD y DVDs encriptados de grado militar de 256 Bits. Nuestros dispositivos cuentan con la validación FIPS 140-2 nivel 4.</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div id="collapseAE" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingAE">
+                                <div class="panel-body">
+                                    <div class="col-sm-6 text-center service-box">
+                                        <img src="/assets/images/services/security/cryptography.png" alt="NGF" width="30%">
+                                        <h4>Criptografía</h4>
+                                        <p>
+                                            Texto de prueba, categoría creada con fines de muestra dentro de la página.
+                                        </p>
+                                    </div>
+                                    <div class="col-sm-6 text-center service-box">
+                                        <img src="/assets/images/services/security/electronic_lock.png" alt="UTM" width="30%">
+                                        <h4>Unified Threat Management</h4>
+                                        <p>
+                                            La Gestión de Amenazas Unificadas (UTM) es una plataforma de seguridad de 
+                                            redes que te permite proteger tu información a traves de multiples soluciones
+                                            de redes.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="portfolio-single">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="portfolio-single-img col-sm-5">
+                        <img class="img-responsive" alt="" src="/assets/images/portfolio/post-1.jpg">
+                    </div>
+                    <div class="col-sm-7">
+                        <div class="col-sm-6 service-box">
+                            <div><i class="fa fa-lock fa-2x color-grey"></i></div>
+                            <h2>Consultoría</h2>
+                            <p>
+                                Nemotek cuenta con un portafolio de productos y servicios especializados destinados a 
+                                ofrecerle una seguridad integral y a proteger los activos más valiosos de su organización.
+                            </p>
+                        </div>
+                        <div class="col-sm-6 service-box">
+                            <div><i class="fa fa-code fa-2x color-grey"></i></div>
+                            <h2>Aplicaciones</h2>
+                            <p>
+                                Identificar y minimizar las vulnerabilidades y los riesgos de las aplicaciones en tu 
+                                organización, desde su etapa de Diseño hasta su etapa de Producción o bien de terceros.
+                            </p>
+                        </div>
+                        <div class="col-sm-6 service-box">
+                            <div><i class="fa fa-sitemap fa-2x color-grey"></i></div>
+                            <h2>Arquitectura</h2>
+                            <p>
+                                Proteger, monitorear y controlar la información de su organización, independientemente de 
+                                dónde y cómo se usa la información.
+                            </p>
+                        </div>
+                        <div class="col-sm-6 service-box">
+                            <div><i class="fa fa-shield fa-2x color-grey"></i></div>
+                            <h2>Continuidad del Negocio</h2>
+                            <p>
+                              Garantice las operaciones y procesos críticos de su organización, minimice los riesgos y 
+                              evite ser víctima de un desastre mediante planes de prevención y recuperación ante desastres.  
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="">
+        <div class="container">
+            <div class="row bottom-30">
+                <div class="col-xs-12">
+                    <h1>Soluciones de Seguridad para tu negocio</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-3">
+                  <!-- Nav tabs -->
+                  <ul class="nav nav-tabs vertical-tabs" role="tablist">
+                    <li role="presentation" class="active"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab">Seguridad en la Red</a></li>
+                    <li role="presentation"><a href="#tab2" aria-controls="tab2" role="tab" data-toggle="tab">Next Generation Firewall</a></li>
+                    <li role="presentation"><a href="#tab3" aria-controls="tab3" role="tab" data-toggle="tab">Unified Threat Management</a></li>
+                    <li role="presentation"><a href="#tab4" aria-controls="tab4" role="tab" data-toggle="tab">Seguridad Móvil</a></li>
+                    <li role="presentation"><a href="#tab5" aria-controls="tab5" role="tab" data-toggle="tab">Mobile Device Management</a></li>
+                    <li role="presentation"><a href="#tab6" aria-controls="tab6" role="tab" data-toggle="tab">Mobile Application Management</a></li>
+                    <li role="presentation"><a href="#tab7" aria-controls="tab7" role="tab" data-toggle="tab">Respaldos y Alta Disponibilidad</a></li>
+                    <li role="presentation"><a href="#tab8" aria-controls="tab8" role="tab" data-toggle="tab">Respaldos</a></li>
+                    <li role="presentation"><a href="#tab9" aria-controls="tab9" role="tab" data-toggle="tab">Alta Disponibilidad</a></li>
+                    <li role="presentation"><a href="#tab10" aria-controls="tab10" role="tab" data-toggle="tab">Almacenamiento Encriptado</a></li>
+                    <li role="presentation"><a href="#tab11" aria-controls="tab11" role="tab" data-toggle="tab">Consultoría</a></li>
+                  </ul>
+                </div>
+                <div class="col-sm-9" id="tab-content">
+                    <!-- Tab panes -->
+                    <div class="tab-content vertical-tab-content">
+                        <div role="tabpanel" class="tab-pane active" id="tab1">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <h3>Seguridad en la Red</h3>
+                                    <p>En la lucha contra las amenazas, el tiempo es muy valioso. Nuestras soluciones de seguridad de redes te permiten prevenir el acceso no autorizado a intrusos, así como detectar y bloquear actividades malintencionadas y software malicioso.</p>
+                                    <div class="text-center">
+                                        <img src="/assets/images/services/security/tab1.png" alt="" width="30%" height="auto">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div role="tabpanel" class="tab-pane" id="tab2">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <h3>Next Generation Firewall</h3>
+                                    <p>Para combatir las nuevas ciber amenazas es necesario contar con una plataforma robusta de seguridad. Los Firewalls de nueva generación ofrecen seguridad multiniveles, que te permiten detectar vulnerabilidades antes de tiempo y tomar acciones, seguridad en Internet, control de aplicaciones, antivirus, protección del correo electrónico, IPS y VPN con una consola fácil de administrar.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div role="tabpanel" class="tab-pane" id="tab3">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <h3>Unified Threat Management</h3>
+                                    <p>La Gestión de Amenazas Unificadas (UTM) es una plataforma de seguridad de redes que te permite proteger el acceso no autorizado a intrusos, crear políticas de seguridad para concientizar a los usuarios, ofrece funcionalidades como Antivirus, VPN, IPS, y administración desde una sola consola.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div role="tabpanel" class="tab-pane" id="tab4">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <h3>Seguridad Móvil</h3>
+                                    <p>Hoy en día los dispositivos móviles son una amenaza potencial para la organización.  Nuestro equipo te puede apoyar a gestionar y proteger los dispositivos móviles así como las aplicaciones y evitar ser víctima de un ataque.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div role="tabpanel" class="tab-pane" id="tab5">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <h3>Mobile Device Management</h3>
+                                    <p>Tener el control, monitoreo y la visibilidad de los dispositivos móviles (smartphones, tablets, laptops, etc.) es una tranquilidad. Nuestra solución te permite monitorear el comportamiento inusual de la red, así como descubrir y responder a ataques más rápido. </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div role="tabpanel" class="tab-pane" id="tab6">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <h3>Mobile Application Management</h3>
+                                    <p>Permite proteger el acceso no autorizado a aplicaciones del negocio, información en transito o en reposo. Es una solución escalable que ayuda a mitigar las amenazas móviles en sistemas operativos Android y iOS. </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div role="tabpanel" class="tab-pane" id="tab7">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <h3>Respaldos y  Alta Disponibilidad</h3>
+                                    <p>El crecimiento de información que se genera día con día representa un reto para las organizaciones. Grandes cantidades de información representan el activo más valioso de la organización. Es por esto, que la información debe estar disponible y actualizada, para que en caso de un desastre minimice el riesgo.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div role="tabpanel" class="tab-pane" id="tab8">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <h3>Respaldos</h3>
+                                    <p>Que no te tomen por sorpresa. Es momento de estar preparado para lo inesperado. Respalda tus activos más valioso, como PCs, servidores, bases de datos, maquinas físicas y virtuales en un ambiente escalable y flexible.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div role="tabpanel" class="tab-pane" id="tab9">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <h3>Alta de Disponibilidad</h3>
+                                    <p>Las operaciones criticas del negocio no se pueden paralizar. Te ayudamos a desarrollar un ambiente seguro y flexible para que el negocio siga operando y no se vea interrumpido por una contingencia.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div role="tabpanel" class="tab-pane" id="tab10">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <h3>Almacenamiento Encriptado</h3>
+                                    <p>Protege la información sensible, estrategias de negocio, propiedad intelectual, expedientes clínicos entre otros con nuestras soluciones de discos duros, USBs, CD y DVDs encriptados de grado militar de 256 Bits. Nuestros dispositivos cuentan con la validación FIPS 140-2 nivel 4.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div role="tabpanel" class="tab-pane" id="tab11">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <h3>Consultoría</h3>
+                                    <p>Nuestros servicios de consultoría nos permiten apoyarte en el diseño y desarrollo de un Plan de Continuidad del Negocio, identificando los procesos críticos, reduciendo los riesgos operativos y tecnológicos. Te ayudamos a robustecer el nivel de madurez de seguridad de tu organización.</p>
+                                    <ul class="fa-ul custom-list top-20">
+                                        <li><i class="fa-li fa fa-check-square-o"></i>
+                                            <h4>Plan de Continuidad del Negocio</h4>
+                                            <p>Permite identificar los activos  y procesos clave de la organización para que en caso de una contingencia las operaciones del negocio no se vean interrumpidas</p>
+                                        </li>
+                                        <li><i class="fa-li fa fa-check-square-o"></i>
+                                            <h4>Análisis de Impacto al Negocio</h4>
+                                            <p>Consiste en realizar una evaluación de los procesos y sistemas del negocio con el objeto de identificar áreas y funciones sensibles a interrupciones y sistemas críticos para el negocio</p>
+                                        </li>
+                                        <li><i class="fa-li fa fa-check-square-o"></i>
+                                            <h4>Análisis de Riesgos</h4>
+                                            <p>Es una evaluación que permite saber cuáles son las principales vulnerabilidades de sus activos de información y cuáles son las amenazas que podrían explotar las vulnerabilidades</p>
+                                        </li>
+                                        <li><i class="fa-li fa fa-check-square-o"></i>
+                                            <h4>Plan de Recuperación ante Desastres</h4>
+                                            <p>Permite identificar y tomar las medidas adecuadas en los activos tecnológicos, para que en caso de un siniestro no se vean paralizadas las operaciones del negocio</p>
+                                        </li>
+                                        <li><i class="fa-li fa fa-check-square-o"></i>
+                                            <h4>Políticas de Respaldos y Resguardo de Información</h4>
+                                            <p>Definición y desarrollo de políticas de respaldos según las necesidades de la organización</p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="works works-fit">
+        <div class="container">
+            <h2 class="subtitle">Some Of Our Features Works</h2>
+                <p class="subtitle-des">
+                    Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.
+                </p>
+            <div class="row">
+                <div class="col-sm-3">
+                     <figure class="wow fadeInLeft animated portfolio-item animated" data-wow-duration="300ms" data-wow-delay="0ms" style="visibility: visible; animation-duration: 300ms; -webkit-animation-duration: 300ms; animation-delay: 0ms; -webkit-animation-delay: 0ms; animation-name: fadeInLeft; -webkit-animation-name: fadeInLeft;">
+                        <div class="img-wrapper">
+                            <img src="/assets/images/portfolio/item-1.jpg" class="img-responsive" alt="portfolio items">
+                            <div class="overlay">
+                                <div class="buttons">
+                                    <a rel="gallery" title="Proin imperdiet augue et magna interdum hendrerit" class="fancybox" href="/assets/images/portfolio/item-1.jpg">Demo</a>        
+                                    <a target="_blank" href="single-postfolio.html">Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        <figcaption>
+                            <h4>
+                                <a href="#">
+                                    Dew Drop        
+                                </a>
+                            </h4>
+                            <p>
+                                Redesigne UI Concept
+                            </p>
+                        </figcaption>
+                    </figure>
+                </div>
+
+                <div class="col-sm-3">
+                    <figure class="wow fadeInLeft animated animated" data-wow-duration="300ms" data-wow-delay="300ms" style="visibility: visible; animation-duration: 300ms; -webkit-animation-duration: 300ms; animation-delay: 300ms; -webkit-animation-delay: 300ms; animation-name: fadeInLeft; -webkit-animation-name: fadeInLeft;">
+                        <div class="img-wrapper">
+                            <img src="/assets/images/portfolio/item-2.jpg" class="img-responsive" alt="portfolio items">
+                            <div class="overlay">
+                                <div class="buttons">
+                                    <a rel="gallery" title="Proin imperdiet augue et magna interdum hendrerit" class="fancybox" href="/assets/images/portfolio/item-2.jpg">Demo</a>        
+                                    <a target="_blank" href="single-postfolio.html">Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        <figcaption>
+                            <h4>
+                                <a href="#">
+                                    Bottle Mockup        
+                                </a>
+                            </h4>
+                            <p>
+                                Lorem ipsum dolor sit.
+                            </p>
+                        </figcaption>
+                    </figure>
+                </div>
+
+                <div class="col-sm-3">
+                    <figure class="wow fadeInLeft animated animated" data-wow-duration="300ms" data-wow-delay="300ms" style="visibility: visible; animation-duration: 300ms; -webkit-animation-duration: 300ms; animation-delay: 300ms; -webkit-animation-delay: 300ms; animation-name: fadeInLeft; -webkit-animation-name: fadeInLeft;">
+                        <div class="img-wrapper">
+                            <img src="/assets/images/portfolio/item-3.jpg" class="img-responsive" alt="">
+                            <div class="overlay">
+                                <div class="buttons">
+                                    <a rel="gallery" title="Proin imperdiet augue et magna interdum hendrerit" class="fancybox" href="/assets/images/portfolio/item-3.jpg">Demo</a>        
+                                    <a target="_blank" href="single-postfolio.html">Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        <figcaption>
+                            <h4>
+                                <a href="#">
+                                    Table Design        
+                                </a>
+                            </h4>
+                            <p>
+                                Lorem ipsum dolor sit amet.
+                            </p>
+                        </figcaption>
+                    </figure>
+                </div>
+
+                <div class="col-sm-3">
+                    <figure class="wow fadeInLeft animated animated" data-wow-duration="300ms" data-wow-delay="600ms" style="visibility: visible; animation-duration: 300ms; -webkit-animation-duration: 300ms; animation-delay: 600ms; -webkit-animation-delay: 600ms; animation-name: fadeInLeft; -webkit-animation-name: fadeInLeft;">
+                        <div class="img-wrapper">
+                            <img src="/assets/images/portfolio/item-4.jpg" class="img-responsive" alt="">
+                            <div class="overlay">
+                                <div class="buttons">
+                                    <a rel="gallery" title="Proin imperdiet augue et magna interdum hendrerit" class="fancybox" href="/assets/images/portfolio/item-4.jpg">Demo</a>        
+                                    <a target="_blank" href="single-postfolio.html">Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        <figcaption>
+                            <h4>
+                                <a href="#">
+                                    Make Up elements        
+                                </a>
+                            </h4>
+                            <p>
+                                Lorem ipsum dolor.
+                            </p>
+                        </figcaption>
+                    </figure>
+                </div>
+
+               
+
+            </div>
+        </div>
+    </section>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.base_layout', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

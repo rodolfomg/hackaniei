@@ -1,0 +1,67 @@
+<?php $__env->startSection('title'); ?>
+<h1>Módulo III - Ejercicios</h1>
+<?php $__env->stopSection(); ?>
+
+<?php $__env->startSection('left-sidebar'); ?>
+	<h2>Robótica virtual avanzada</h2>
+	<h4>
+		Te encuentras en la secci&oacute;n de ejercicios del m&oacute;dulo III (Rob&oacute;tica Virtual 
+		Avanzada &quot;EL ROBOT KAREL&quot;).
+	</h4>
+	<h4>
+		Al entrar al enlace del ejercicio que vas a resolver, esta plataforma te mostrara la descripcion
+		de la tarea que Karel debe resolver.
+	</h4>
+	<h4>
+		Para este momento, ya debiste haber descargado, e instalado, el software del Robot Karel 
+		(el cual puedes descargar de esta misma pagina).
+	</h4>
+	<h4>
+		<b>
+		"Aprender a programar se aprende programando". Por lo que te invitamos a practicar los siguientes 
+		problemas de Karel El Robot en tu clase	o en tu casa.
+		</b>
+	</h4>
+	
+	<hr class="blog-post-sep">
+<?php $__env->stopSection(); ?>
+
+<?php $__env->startSection('rest'); ?>
+<div class="col-md-12 col-sm-12 blog-item">				
+	<?php for($i = 0; $i < 10; $i++): ?>
+		<div class="row">
+			<div class="col-xs-3 col-xs-offset-1"><br/>
+				<a class="search-link" href="http://educacioncreativa.org/karelOriginal/problemas/problema000<?php echo $i; ?>.html">
+					<h2 class="text-primary"><strong>Problema <?php echo $i; ?></strong></h2>
+				</a> 
+			</div>
+			<div class="col-xs-8"><br/>
+				<a class="search-link" href="http://educacioncreativa.org/karelOriginal/problemas/problema000<?php echo $i; ?>.html">
+					<h3 class="text-info">
+						<?php if(!$i): ?> Este problema es de introcucción
+						<?php else: ?> Los puntos de este problema son acumulables
+						<?php endif; ?>
+					</h3>
+				</a> 
+			</div>
+		</div>
+	<?php endfor; ?>
+	
+	<?php for($i = 10; $i < 21; $i++): ?>
+		<div class="row">
+			<div class="col-xs-3 col-xs-offset-1"><br/>
+				<a class="search-link" href="http://educacioncreativa.org/karelOriginal/problemas/problema000<?php echo $i; ?>.html">
+					<h2 class="text-primary"><strong>Problema <?php echo $i; ?></strong></h2>
+				</a> 
+			</div>
+			<div class="col-xs-8"><br/>
+				<a class="search-link" href="http://educacioncreativa.org/karelOriginal/problemas/problema000<?php echo $i; ?>.html">
+					<h3 class="text-info">Los puntos de este problema son acumulables</h3>
+				</a> 
+			</div>
+		</div>
+	<?php endfor; ?>
+	
+</div>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.m3_layout', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

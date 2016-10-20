@@ -1,0 +1,202 @@
+
+
+<?php $__env->startSection('content'); ?>
+    <section id="page-separator" class="global-page-header">
+    </section><!--/#Page header-->
+
+    <section class="">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-9">
+                    <h1>Seguridad en Dispositivos Móviles</h1><hr>
+                </div>
+            </div>
+            <div class="row bottom-30">
+                <div class="col-md-9">
+                    <p>
+                        En un mundo tan dinámico, cada negocio se vuelve en un negocio móvil y la demanda para
+
+asegurar la información del negocio, proporcionar acceso seguro a los documentos de la empresa
+
+y mantener los dispositivos móviles seguros de amenazas, representa un gran reto para los
+
+profesionales de TI.
+                    </p>
+                    <div class="row">
+                        <div class="col-md-5 col-md-offset-0 col-sm-offset-2 col-sm-8">
+                            <img src="/assets/images/services/network_security/firewall.jpg" width="100%" alt="">
+                        </div>
+                        <div class="col-md-7 col-sm-12">
+                            <p>
+                                Existe una población diversa de usuarios invitados en la red – empleados, personal subcontratado,
+
+proveedores, visitantes, entre otros – que dependen de la conectividad en cualquier lugar / en
+
+cualquier momento e inclusive el acceso a información sensible para realizar su trabajo.
+                            </p>
+                            <p>
+                                El rol que juegan los dispositivos móviles – smartphones, tablets y laptops – y los riesgos que
+
+presentan al tener aplicaciones e información sensible de la organización sin protección ni cifrado
+
+en caso de una pérdida puede exponer a la organización.
+                            </p>
+                            <p>
+                                Las soluciones móviles de CheckPoint permiten a las organizaciones ofrecer una seguridad móvil
+
+robusta a lo largo de todas las operaciones del negocio, a todos los dispositivos, ya sea dentro o
+
+fuera del perímetro.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <p>
+                                El 90% de los empleados tiene deshabilitado el seguro de sus tablets.
+                            </p>
+                            <p>
+                                El 75% de los empleados tiene deshabilitado el seguro de sus smartphones.
+                            </p>
+                            <p>
+                                Mantener una fuerza de trabajo móvil segura ahora es más simple con Windows To Go de Ironkey.
+
+¿Cuál es tu problema? Llámalo empleados remotos, outsourcing, BYOD, acceso a la VPN o
+
+escritorios virtuales. Windows To Go resuelve todos estos problemas poniendo tu ambiente de
+
+trabajo en un dispositivo USB seguro, con encriptación de 256 bits, que se ejecuta desde cualquier
+
+PC, Mac o Tablet.
+                            </p>
+                            <p>
+                                Tus empleados reciben un dispositivo USB con Windows 8.1 o Windows 10 con el espacio de
+
+trabajo que requieren. Es todo el ambiente de trabajo de Windows de tus usuarios – incluyendo
+
+todas las aplicaciones y las políticas de seguridad – implementado y administrado. De esta forma
+
+tú tienes el control y tus empleados móviles se mantienen productivos.
+                            </p>
+                        </div>
+                    </div>
+                    <section class="works works-fit">
+                        <h2 class="subtitle">Soluciones integrales</h2>
+                        <p class="subtitle-des">
+                            Revisa todos los servicios que tenemos para tu empresa, y asegurate de mantener toda la información segura sin importar la plataforma donde se encuentre.
+                        </p>
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <figure class="wow fadeInLeft animated portfolio-item animated" data-wow-duration="300ms" data-wow-delay="0ms" style="visibility: visible; animation-duration: 300ms; -webkit-animation-duration: 300ms; animation-delay: 0ms; -webkit-animation-delay: 0ms; animation-name: fadeInLeft; -webkit-animation-name: fadeInLeft;">
+                                    <div class="img-wrapper">
+                                        <img src="/assets/images/services/security/mobile-security.png" height="126px" class="img-responsive" alt="portfolio items">
+                                    </div>
+                                    <figcaption>
+                                        <h4>
+                                            <a href="#">
+                                                Seguridad en equipos moviles        
+                                            </a>
+                                        </h4>
+                                        <p>
+                                            Redesigne UI Concept
+                                        </p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+
+                            <div class="col-sm-3">
+                                <figure class="wow fadeInLeft animated animated" data-wow-duration="300ms" data-wow-delay="300ms" style="visibility: visible; animation-duration: 300ms; -webkit-animation-duration: 300ms; animation-delay: 300ms; -webkit-animation-delay: 300ms; animation-name: fadeInLeft; -webkit-animation-name: fadeInLeft;">
+                                    <div class="img-wrapper">
+                                        <img src="/assets/images/services/security/data_encryption.png" style="margin-left: 25%; height: 126px;" class="img-responsive" alt="portfolio items">
+                                    </div>
+                                    <figcaption>
+                                        <h4>
+                                            <a href="#">
+                                                Protección de datos      
+                                            </a>
+                                        </h4>
+                                        <p>
+                                            Lorem ipsum dolor sit.
+                                        </p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+
+                            <div class="col-sm-3">
+                                <figure class="wow fadeInLeft animated animated" data-wow-duration="300ms" data-wow-delay="300ms" style="visibility: visible; animation-duration: 300ms; -webkit-animation-duration: 300ms; animation-delay: 300ms; -webkit-animation-delay: 300ms; animation-name: fadeInLeft; -webkit-animation-name: fadeInLeft;">
+                                    <div class="img-wrapper">
+                                        <img src="/assets/images/services/security/cloud.jpg" style="margin-left: 5%; height:126px" class="img-responsive" alt="">
+                                    </div>
+                                    <figcaption>
+                                        <h4>
+                                            <a href="#">
+                                                Seguridad en aplicaciones        
+                                            </a>
+                                        </h4>
+                                        <p>
+                                            Lorem ipsum dolor sit.
+                                        </p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+
+                            <div class="col-sm-3">
+                                <figure class="wow fadeInLeft animated animated" data-wow-duration="300ms" data-wow-delay="600ms" style="visibility: visible; animation-duration: 300ms; -webkit-animation-duration: 300ms; animation-delay: 600ms; -webkit-animation-delay: 600ms; animation-name: fadeInLeft; -webkit-animation-name: fadeInLeft;">
+                                    <div class="img-wrapper">
+                                        <img src="/assets/images/services/security/cryptography.png" style="margin-left: 15%; height:126px" class="img-responsive" alt="">
+                                    </div>
+                                    <figcaption>
+                                        <h4>
+                                            <a href="#">
+                                                Almacenamiento de alta seguridad    
+                                            </a>
+                                        </h4>
+                                        <p>
+                                            Lorem ipsum dolor.
+                                        </p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+                <div class="col-sm-3 hidden-xs hidden-sm">
+                    <ul class="nav nav-tabs vertical-tabs" role="tablist">
+                        <li role="presentation"><h4>Soluciones</h4></li>
+                        <li role="presentation">
+                            <a href="/servicios/seguridad-red" aria-controls="tab1">
+                                <i class="fa fa-chevron-right"></i> Seguridad en la Red
+                            </a>
+                        </li>
+                        <li role="presentation" class="sm-active">
+                            <a href="/servicios/seguridad-movil" aria-controls="tab2">
+                                Seguridad en Dispositivos Móviles
+                            </a>
+                        </li>
+                        <li role="presentation">
+                            <a href="/servicios/proteccion-datos" aria-controls="tab3">
+                                Protección de Datos
+                            </a>
+                        </li>
+                        <li role="presentation">
+                            <a href="/servicios/seguridad-apps" aria-controls="tab4">
+                                Seguridad en Aplicaciones
+                            </a>
+                        </li>
+                        <li role="presentation">
+                            <a href="/servicios/almacenamiento-seguro" aria-controls="tab5">
+                                Almacenamiento de Alta Seguridad
+                            </a>
+                        </li>
+                        <li role="presentation">
+                            <a href="/servicios/planeacion" aria-controls="tab6">
+                                Planeación y Gestión de Recursos
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.base_layout', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

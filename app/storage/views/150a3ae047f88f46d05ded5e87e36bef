@@ -1,0 +1,110 @@
+
+
+<?php $__env->startSection('content'); ?>
+    <section id="page-separator" class="global-page-header">
+    </section><!--/#Page header-->
+
+    <section class="">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-9">
+                    <h1>Sistema ADMIN</h1><hr>
+                </div>
+            </div>
+            <div class="row bottom-30">
+                <div class="col-md-9">
+                    <h2>Gestión de Recursos Gubernamentales</h2>
+                    <p>
+                        Nemotek ha participado con éxito en apoyar a los Entes Públicos 
+                        en su solución basado en el paquete computacional Admin, el cual fue desarrollado 
+                        con el objetivo aumentar la productividad y generar ahoro para las instituciones
+                        a través de la automatización de procesos y la toma de mejores decisiones basadas 
+                        en información al día y consistente. 
+                    </p>
+                    <div class="row bottom-30">
+                        <div class="col-md-5 col-md-offset-0 col-sm-offset-2 col-sm-8">
+                            <img src="/assets/images/services/admin.png" width="100%" alt="">
+                        </div>
+                        <div class="col-md-7 col-sm-12">
+                            <h4>Problemas que enfrentan las Administraciones Públicas</h4>
+                            <p>
+                                Cada Administración enfrenta sus propios problemas, sin embargo hemos identificado aquellos 
+                                problemas que son constantes y que requieren de un tratamiento para garantizar el optimo 
+                                desarrollo de cada Administración.
+                            </p>
+                            <p><b><i>Problemas de las Administraciones Públicas:</i></b></p>
+                            <ul class="fa-ul">
+                                <li><i class="fa fa-caret-right"></i> Alta competencia política.</li>
+                                <li><i class="fa fa-caret-right"></i> Mayor cuestionamiento de las cuentas públicas.</li>
+                                <li><i class="fa fa-caret-right"></i> Periodos de administración muy cortos.</li>
+                                <li><i class="fa fa-caret-right"></i> Ineficiencia en la recaudación de ingresos.</li>
+                                <li><i class="fa fa-caret-right"></i> Mejor asignación y control de los egresos.</li>
+                                <li><i class="fa fa-caret-right"></i> Improductividad de los recursos humanos.</li>
+                                <li><i class="fa fa-caret-right"></i> Alto grado de rezago tecnológico.</li>
+                                <li><i class="fa fa-caret-right"></i> Falta de apoyo de un sistema computacional integral.</li>
+                                <li><i class="fa fa-caret-right"></i> Cumplir con la Ley General de Contabilidad Gubernamental.</li>
+                            </u>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h4>Objetivos de ADMIN</h4>
+                            <p>
+                                Conociendo lo anterior, Nemotek ha participado con éxito 
+                                en apoyar a los Entes Públicos en su solución basado en el paquete 
+                                computacional Admin, que, junto con los servicios necesarios, tiene por 
+                                objetivo:
+                            </p>
+                            <ul class="fa-ul">
+                                <li><i class="fa fa-caret-right"></i> Incrementar la recaudación de ingresos.</li>
+                                <li><i class="fa fa-caret-right"></i> Mejorar la atención al ciudadano basado en un mejor servicio.</li>
+                                <li><i class="fa fa-caret-right"></i> Generar  ahorro  (ingresos  >  gastos)  para  favorecer  con  más obras a los sectores menos favorecidos.</li>
+                                <li><i class="fa fa-caret-right"></i> Aumentar  la  productividad  de  los  recursos  humanos, automatizando  sus  tareas,  eliminado  reprocesos  y  adoptando procesos  con  prácticas  exitosas  ya  probadas  en  otros  entes públicos.</li>
+                                <li><i class="fa fa-caret-right"></i> Eliminación de sobregiros presupuestales.</li>
+                                <li><i class="fa fa-caret-right"></i> Trasparencia en las operaciones.</li>
+                                <li><i class="fa fa-caret-right"></i> Mejores decisiones basadas en mejor información: información al día y consistente.</li>
+                                <li><i class="fa fa-caret-right"></i> Cumplir  con  la  guía  de  requerimientos  de  aplicativos informáticos (indispensables y de valor agregado).</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3 hidden-xs hidden-sm">
+                    <ul class="nav nav-tabs vertical-tabs" role="tablist">
+                        <li role="presentation"><h4>Soluciones</h4></li>
+                        <li role="presentation">
+                            <a href="/servicios/seguridad-red" aria-controls="tab1">
+                                <i class="fa fa-chevron-right"></i> Seguridad en la Red
+                            </a>
+                        </li>
+                        <li role="presentation">
+                            <a href="/servicios/seguridad-movil" aria-controls="tab2">
+                                Seguridad en Dispositivos Móviles
+                            </a>
+                        </li>
+                        <li role="presentation">
+                            <a href="/servicios/proteccion-datos" aria-controls="tab3">
+                                Protección de Datos
+                            </a>
+                        </li>
+                        <li role="presentation">
+                            <a href="/servicios/seguridad-apps" aria-controls="tab4">
+                                Seguridad en Aplicaciones
+                            </a>
+                        </li>
+                        <li role="presentation">
+                            <a href="/servicios/almacenamiento-seguro" aria-controls="tab5">
+                                Almacenamiento de Alta Seguridad
+                            </a>
+                        </li>
+                        <li role="presentation" class="sm-active">
+                            <a href="/servicios/planeacion" aria-controls="tab6">
+                                Planeación y Gestión de Recursos
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.base_layout', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

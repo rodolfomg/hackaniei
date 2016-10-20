@@ -1,0 +1,38 @@
+<?php $__env->startSection('content'); ?>
+<!-- BEGIN SIDEBAR & CONTENT -->
+<div class="row margin-bottom-40">
+  <!-- BEGIN CONTENT -->
+  <div class="col-md-12 col-sm-12">
+	<?php echo $__env->yieldContent('title'); ?>
+	<div class="content-page">
+	  <div class="row">
+		<!-- BEGIN LEFT SIDEBAR -->            
+		<div class="col-md-9 col-sm-9 blog-item">
+		  <?php echo $__env->yieldContent('left-sidebar'); ?>
+		</div>
+		<!-- END LEFT SIDEBAR -->
+
+		<!-- BEGIN RIGHT SIDEBAR -->            
+		<div class="col-md-3 col-sm-3 blog-sidebar">
+		  <!-- CATEGORIES START -->
+		  <h2 class="no-top-space">Módulo III</h2>
+		  <ul class="nav sidebar-categories margin-bottom-40">
+			<li <?php if($m_nv == 1): ?> class="active" <?php endif; ?> ><a href="/moduloIII">Introducción</a></li>
+			<li <?php if($m_nv == 2): ?> class="active" <?php endif; ?> ><a href="/moduloIII/tutoriales">Tutoriales</a></li>
+			<li <?php if($m_nv == 3): ?> class="active" <?php endif; ?> ><a href="/moduloIII/ejercicios">Ejercicios</a></li>
+			<li <?php if($m_nv == 4): ?> class="active" <?php endif; ?> ><a href="/moduloIII/tareas">Tareas</a></li>
+		  
+		  <a class="btn btn-block green-meadow" href="http://www.omegaup.com" target="_blank">omegaup.com</a>
+		  </ul>
+		  <!-- CATEGORIES END -->
+		</div>
+		<!-- END RIGHT SIDEBAR -->   
+		<div class="row"><?php echo $__env->yieldContent('rest'); ?></div>
+	  </div>
+	</div>
+  </div>
+  <!-- END CONTENT -->
+</div>
+<!-- END SIDEBAR & CONTENT -->
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.main_layout', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

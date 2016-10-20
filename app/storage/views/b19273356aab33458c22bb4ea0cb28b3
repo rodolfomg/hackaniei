@@ -1,0 +1,121 @@
+<?php $__env->startSection('title'); ?>
+<h1>Módulo III</h1>
+<?php $__env->stopSection(); ?>
+
+<?php $__env->startSection('left-sidebar'); ?>
+	<h2>Robótica virtual avanzada</h2>
+	<h4>
+		Puedes ingresar en la siguiente liga para resolver los problemas de
+		este módulo, recuerda que cada problema representa 20 pts, 
+		y que cada "Tarea" incluye un conjunto de varios problemas. <br/><br/>
+		
+		Para resolver los problemas de una "Tarea" basta con hacer click sobre la Tarea a resolver, este enlace te llevará a omegaup.com
+		donde deberas iniciar "sesion", y después te redireccionarán, automaticamente, a la página donde se encuentran los problemas. 
+		A partir de que entras por primera vez a la "Tarea "
+		la plataforma te indica, en la parte superior de la pagina,
+		las horas que tienes para resolver todos los problemas
+		 y subir la solucion de cada problema de esa "Tarea".					
+	</h4><br/>
+	<a class="btn blue-hoki-stripe" href=" http://www.educacioncreativa.org/omi2015nl/descripcionDeComoEnviarSolucionesA_omegaup.wmv">
+		<h4><strong>Descripcion de como enviar tareas a omegaup.com para ser evaluadas <i class="fa fa-download"></i></strong></h4>
+	</a>
+	<hr class="blog-post-sep">
+	<div class="row">
+		<div class="col-md-3 col-sm-3 col-md-offset-1">
+		  <a href="https://omegaup.com/arena/ejercicioMuestraOMI2015NL/" target="_blank">
+			<h2 class="text-primary"><strong>Tarea Muestra</strong></h2>
+		  </a>  
+		</div>
+		<div class="col-md-8 col-sm-8">
+			<div class="row">
+				<div class="col-md-12 col-sm-12">
+					<h3 class="text-info">
+						 (Solo representa 10 puntos Acumulables)
+					</h3>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Fin descripcion -->
+	<div class="row">
+		<div class="col-md-3 col-sm-3 col-md-offset-1">
+		  <a href="https://omegaup.com/arena/imater_MIII_Karel_T1/" target="_blank">
+			<h2 class="text-primary"><strong>Tarea 1</strong></h2>
+		  </a>
+		</div>
+		<div class="col-md-8 col-sm-8">
+			<div class="row">
+				<div class="col-md-12 col-sm-12">
+					<h3 class="text-info">
+						Los puntos de esta tarea son acumulables
+					</h3>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-3 col-sm-3 col-md-offset-1">
+		  <a href="https://omegaup.com/arena/imater_M_III_T2_Karel_4Nov2014/" target="_blank">
+			<h2 class="text-primary"><strong>Tarea 2</strong></h2>
+		  </a>
+		</div>
+		<div class="col-md-8 col-sm-8">
+			<div class="row">
+				<div class="col-md-12 col-sm-12">
+					<h3 class="text-info">
+						Los puntos de esta tarea son acumulables
+					</h3>
+				</div>
+			</div>
+		</div>
+	</div>  
+	<div class="row">
+		<div class="col-md-3 col-sm-3 col-md-offset-1">
+		  <a href="https://omegaup.com/arena/IM_MIII_TAREA3_NOV2014/" target="_blank">
+			<h2 class="text-primary"><strong>Tarea 3</strong></h2>
+		  </a>
+		</div>
+		<div class="col-md-8 col-sm-8">
+			<div class="row">
+				<div class="col-md-12 col-sm-12">
+					<h3 class="text-info">
+						Los puntos de esta tarea son acumulables
+					</h3>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-3 col-sm-3 col-md-offset-1">
+		  <a href="https://omegaup.com/arena/omi2015nlTarea4_Karel_M_III/" target="_blank">
+			<h2 class="text-primary"><strong>Tarea 4</strong></h2>
+		  </a>
+		</div>
+		<div class="col-md-8 col-sm-8">
+			<div class="row"> 
+				<div class="col-md-12 col-sm-12">
+					<h3 class="text-info">
+						Los puntos de esta tarea son acumulables
+					</h3>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-3 col-sm-3 col-md-offset-1">
+		  <a href="https://omegaup.com/arena/omi2015nlModulo_III_Tarea5/" target="_blank">
+			<h2 class="text-primary"><strong>Tarea 5</strong></h2>
+		  </a> 
+		</div>
+		<div class="col-md-8 col-sm-8">
+			<div class="row">
+				<div class="col-md-12 col-sm-12">
+					<h3 class="text-info">
+						Los puntos de esta tarea son acumulables
+					</h3>
+				</div>
+			</div>
+		</div>
+	</div>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.m3_layout', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

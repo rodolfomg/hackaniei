@@ -1,0 +1,72 @@
+<?php $__env->startSection('title'); ?>
+<h1>Módulo IV - Tutorial</h1>
+<?php $__env->stopSection(); ?>
+
+<?php $__env->startSection('left-sidebar'); ?>
+	<h2>Taller de Lenguaje de Programacion C/C++</h2>
+	<h4>
+		Veamos una explicacion de los pasos basicos para comprender y tener claro el 
+		proceso de escribir, compilar y probar programas en Lenguaje C/C++, en la 
+		plataforma del IDE de CodeBlocks:
+	</h4>
+	<ul> 
+		<li>
+			<h4>Necesitamos el software de "CodeBlocks", que es una plataforema
+			IDE (Integreted Development Environment), el cual puedes 
+			descargar en esta misma pagina</h4>
+		</li>
+		<li>
+			<h4> Una vez que descargues, en tu computadora, el software de 
+			"CodeBlocks", lo "Ejecutas" para que se instale en tu computadora </h4>
+		</li>
+		<li>
+			<h4> Al terminar de instalarlo, el mismo software te indicara 
+				que encontro un compilador (GNU GCC Compiler), ahi debes presionar el 
+				boton de "Aceptar".
+			</h4>
+		</li>
+		<li>
+			<h4> La primera vez, y cada vez, que abrimos el "CodeBlocks"
+				debemos crear un proyecto nuevo para cada nuevo programa 
+				que vayamos a crear o escribir. Esto
+				es necesario para que "CodeBlocks" nos
+				permita usar el "Debugger" (el 
+				Debugger es una opcion de "CodeBlocks" que nos
+				permite darle seguimiento a la 
+				ejecucion de nuestro programa).
+				
+			</h4>
+		</li>
+		<li>
+			<h4> En esta misma pagina encontraras videos 
+			donde se explica el proceso de crear 
+			un nuevo proyecto para cada vez que 
+			vamos a crear o escibir un nuevo programa.
+			</h4>
+		</li>
+	</ul><br />
+	<h3 class="text-primary">Curso básico de C++</h3>
+	<hr />
+	<div class="row">
+		<div class="col-md-4 col-sm-4 text-center">
+			<img src="/assets/moduloIV/img/spoj.png" width="100%" alt="Spoj" /><br />
+		</div>
+		<div class="col-md-8 col-sm-8">
+			<div class="row">
+				<div class="col-md-12 col-sm-12">
+					<h4 class="">
+						En esta plataforma <a href="http://ominl.spox.spoj.pl" class="font-blue-steel">SPOJ</a> 
+						(SPhere Online Judge) podras registrarte para estudiar un curso
+						básico de C++, ahí mismo habrá ejercicios cuya solución podrás subir
+						en la misma plataforma, y te informará si tu solución es correcta o no.						
+					</h4>
+					<h4 class="text-right">
+						<a href="http://ominl.spox.spoj.pl" class="btn green-meadow" target="_blank">Ir a spoj</a>
+					</h4>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.m4_layout', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

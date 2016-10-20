@@ -1,0 +1,114 @@
+<?php $__env->startSection('content'); ?>
+<h3 class="page-title">Administración de grupos</h3>
+<h4>
+	
+</h4>
+<div class="row">
+	<div class="col-md-12">
+		<div class="portlet light">
+			<div class="portlet-title">
+				<div class="caption">
+					<span class="caption-subject font-blue-hoki bold uppercase">Grupos</span>
+					<span class="caption-helper"></span>
+				</div>
+				<div class="tools">
+					<a id="add-group" href="groups/add-group">
+					<i class="fa fa-plus"></i>
+					</a>
+					<a href="javascript:;" class="reload">
+					</a>
+					<a href="javascript:;" class="fullscreen">
+					</a>
+				</div>
+			</div>
+			<div class="portlet-body">
+				<div class="tabbable-line">
+					<div class="table-responsive">
+						<table class="table table-striped table-hover table-bordered">
+							<thead>
+								<tr>
+									<th class="text-center">
+										 Código
+									</th>
+									<th class="text-center">
+										 Nombre del grupo
+									</th>
+									<th class="text-center">
+										 Dependencia
+									</th>
+									<th class="text-center">
+										 Maestro
+									</th>
+									<th class="text-center">
+										Tipo
+									</th>
+									<th class="text-center">
+										Opciones
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<?php foreach($groups as $group): ?>
+								<tr>
+									<td class="text-center">
+										<?php echo $group->codigo; ?>
+
+									</td>
+									<td class="text-center">
+										<?php echo $group->nombre; ?>
+
+									</td>
+									<td class="text-center">
+										<?php echo $group->dependencia; ?>
+
+									</td>
+									<td class="text-center">
+										<?php echo $group->maestro; ?> <?php echo $group->apellidos; ?>
+
+									</td>
+									<td class="text-center">
+										<?php if($group->tipo): ?>
+											Maestros
+										<?php else: ?>
+											Alumnos
+										<?php endif; ?>
+									</td>
+									<td class="text-center">
+										<a href="/" class="btn default btn-xs blue-hoki">
+											Editar 
+										</a>
+										<button
+										   class="btn default btn-xs red"
+										   data-toggle="confirmation" 
+										   data-placement="top"
+										   data-original-title="Estás seguro?"
+										   data-btn-ok-label="Continuar" 
+										   data-btn-ok-icon="icon-like" 
+										   data-btn-ok-class="btn-success" 
+										   data-btn-cancel-label="Alto!" 
+										   data-btn-cancel-icon="icon-close" 
+										   data-btn-cancel-class="btn-danger"
+										   data-popout="true"
+										   data-id="<?php echo $group->id; ?>">
+											Eliminar 
+										</button>
+									</td>
+								</tr>
+								<?php endforeach; ?>
+							</tbody>
+						</table>
+					</div>
+				</div>
+			
+			<?php echo Form::open(array('url' => '/grupos/delete-group', 'id' => 'form-delete')); ?>
+
+			<?php echo Form::hidden('id', 'secret', array('id' => 'id-delete')); ?>
+
+			<?php echo Form::close(); ?>
+
+			</div>
+		</div>	
+	</div>
+</div>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.admin_layout', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

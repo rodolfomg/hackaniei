@@ -1,0 +1,171 @@
+<?php $__env->startSection('content'); ?>
+    <section id="page-separator" class="global-page-header">
+    </section><!--/#Page header-->
+
+    <section class="">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-9">
+                    <h1>Seguridad en la Red</h1><hr>
+                </div>
+            </div>
+            <div class="row bottom-30">
+                <div class="col-md-9">
+                    <p>
+                        Hoy en día la protección de su organización contra el malware más sofisticado y los daños previos
+                        y posteriores a la infección representan un gran desafío. Los dispositivos de seguridad perimetral 
+                        de CheckPoint ofrecen una protección robusta con una defensa de múltiples capas, fácil de 
+                        administrar y de bajo costo, satisfaciendo sus necesidades particulares.
+                    </p>
+                    <div class="row">
+                        <div class="col-md-5 col-md-offset-0 col-sm-offset-2 col-sm-8">
+                            <img src="/assets/images/services/network_security/firewall.jpg" width="100%" alt="">
+                        </div>
+                        <div class="col-md-7 col-sm-12">
+                            <p>
+                                Proteger la red de amenazas externas, ataques de día cero, malware, intrusos, bots, entre otros
+                                podría tener un alto impacto en las operaciones si no se implementan los controles de seguridad 
+                                adecuados.
+                            </p>
+                            <p>
+                                Protección integral contra amenazas en un solo equipo
+                            </p>
+                            <p>
+                                Protección avanzada de múltiples capas de seguridad contra amenazas informáticas, incluyendo
+                                tecnologías como: Firewall de nueva generación (NGFW), Prevención de intrusos (IPS), control de 
+                                aplicaciones, VPN, filtrado web, antivirus, anti-bot y anti spam.
+                            </p>
+                            <p>
+                                Protección contra ataques avanzados de Día Cero y amenazas avanzadas persistentes (APTs).
+                            </p>
+                            <p>
+                                Inteligencia de Seguridad en tiempo real desde ThreatCloud.
+                            </p>
+                            <p>
+                                Identificación de sitios Web, aplicaciones y direcciones maliciosas.
+                            </p>
+                            <p>
+                                Administración unificada. Monitorea, analiza y genera reportes de amenazas y riesgos.
+                            </p>
+                        </div>
+                    </div>
+                    <section class="works works-fit">
+                        <h2 class="subtitle">Solucines integrales</h2>
+                        <p class="subtitle-des">
+                            Revisa todos los servicios que tenemos para tu empresa, y asegurate de mantener toda la información segura sin importar la plataforma donde se encuentre.
+                        </p>
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <figure class="wow fadeInLeft animated portfolio-item animated" data-wow-duration="300ms" data-wow-delay="0ms" style="visibility: visible; animation-duration: 300ms; -webkit-animation-duration: 300ms; animation-delay: 0ms; -webkit-animation-delay: 0ms; animation-name: fadeInLeft; -webkit-animation-name: fadeInLeft;">
+                                    <div class="img-wrapper">
+                                        <img src="/assets/images/services/security/mobile-security.png" height="126px" class="img-responsive" alt="portfolio items">
+                                    </div>
+                                    <figcaption>
+                                        <h4>
+                                            <a href="#">
+                                                Seguridad en equipos moviles        
+                                            </a>
+                                        </h4>
+                                        <p>
+                                            Redesigne UI Concept
+                                        </p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+
+                            <div class="col-sm-3">
+                                <figure class="wow fadeInLeft animated animated" data-wow-duration="300ms" data-wow-delay="300ms" style="visibility: visible; animation-duration: 300ms; -webkit-animation-duration: 300ms; animation-delay: 300ms; -webkit-animation-delay: 300ms; animation-name: fadeInLeft; -webkit-animation-name: fadeInLeft;">
+                                    <div class="img-wrapper">
+                                        <img src="/assets/images/services/security/data_encryption.png" style="margin-left: 25%; height: 126px;" class="img-responsive" alt="portfolio items">
+                                    </div>
+                                    <figcaption>
+                                        <h4>
+                                            <a href="#">
+                                                Protección de datos      
+                                            </a>
+                                        </h4>
+                                        <p>
+                                            Lorem ipsum dolor sit.
+                                        </p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+
+                            <div class="col-sm-3">
+                                <figure class="wow fadeInLeft animated animated" data-wow-duration="300ms" data-wow-delay="300ms" style="visibility: visible; animation-duration: 300ms; -webkit-animation-duration: 300ms; animation-delay: 300ms; -webkit-animation-delay: 300ms; animation-name: fadeInLeft; -webkit-animation-name: fadeInLeft;">
+                                    <div class="img-wrapper">
+                                        <img src="/assets/images/services/security/cloud.jpg" style="margin-left: 5%; height:126px" class="img-responsive" alt="">
+                                    </div>
+                                    <figcaption>
+                                        <h4>
+                                            <a href="#">
+                                                Seguridad en aplicaciones        
+                                            </a>
+                                        </h4>
+                                        <p>
+                                            Lorem ipsum dolor sit.
+                                        </p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+
+                            <div class="col-sm-3">
+                                <figure class="wow fadeInLeft animated animated" data-wow-duration="300ms" data-wow-delay="600ms" style="visibility: visible; animation-duration: 300ms; -webkit-animation-duration: 300ms; animation-delay: 600ms; -webkit-animation-delay: 600ms; animation-name: fadeInLeft; -webkit-animation-name: fadeInLeft;">
+                                    <div class="img-wrapper">
+                                        <img src="/assets/images/services/security/cryptography.png" style="margin-left: 15%; height:126px" class="img-responsive" alt="">
+                                    </div>
+                                    <figcaption>
+                                        <h4>
+                                            <a href="#">
+                                                Almacenamiento de alta seguridad    
+                                            </a>
+                                        </h4>
+                                        <p>
+                                            Lorem ipsum dolor.
+                                        </p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+                <div class="col-sm-3 hidden-xs hidden-sm">
+                    <ul class="nav nav-tabs vertical-tabs" role="tablist">
+                        <li role="presentation"><h4>Soluciones</h4></li>
+                        <li role="presentation" class="sm-active">
+                            <a href="/servicios/seguridad-red" aria-controls="tab1" role="tab" data-toggle="tab">
+                                <i class="fa fa-chevron-right"></i> Seguridad en la Red
+                            </a>
+                        </li>
+                        <li role="presentation">
+                            <a href="/servicios/seguridad-movil" aria-controls="tab2" role="tab" data-toggle="tab">
+                                Seguridad en Dispositivos Móviles
+                            </a>
+                        </li>
+                        <li role="presentation">
+                            <a href="/servicios/proteccion-datos" aria-controls="tab3" role="tab" data-toggle="tab">
+                                Protección de Datos
+                            </a>
+                        </li>
+                        <li role="presentation">
+                            <a href="/servicios/seguridad-apps" aria-controls="tab4" role="tab" data-toggle="tab">
+                                Seguridad en Aplicaciones
+                            </a>
+                        </li>
+                        <li role="presentation">
+                            <a href="/servicios/almacenamiento-seguro" aria-controls="tab5" role="tab" data-toggle="tab">
+                                Almacenamiento de Alta Seguridad
+                            </a>
+                        </li>
+                        <li role="presentation">
+                            <a href="/servicios/planeacion" aria-controls="tab6" role="tab" data-toggle="tab">
+                                Planeación y Gestión de Recursos
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.base_layout', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

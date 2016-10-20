@@ -1,0 +1,167 @@
+<?php $__env->startSection('content'); ?>
+    <section class="global-page-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="block">
+                        <h2>Sobre nosotros</h2>
+                        <ol class="breadcrumb">
+                            <li>
+                                <a href="/">
+                                    <i class="ion-ios-home"></i>
+                                    Inicio
+                                </a>
+                            </li>
+                            <li class="active">Nosotros</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="company-description">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 wow fadeInLeft" data-wow-delay=".3s" >
+                    <img src="assets/images/about-company.jpg" alt="" class="img-responsive">
+                </div>
+                <div class="col-md-6">
+                    <div class="block">
+                        <h3 class="subtitle wow fadeInUp" data-wow-delay=".3s" data-wow-duration="500ms">
+                            Nemotek S.A de C.V.
+                        </h3>
+                        <p  class="wow fadeInUp" data-wow-delay=".5s" data-wow-duration="500ms">
+                            Somos una empresa que inició sus operaciones en 1975 con la creación de 
+                            la empresa Diseño de Sistemas, S.A. dedicada a ofrecer servicios de 
+                            desarrollo de sistemas computacionales, procedimientos administrativos 
+                            y programas educacionales. 
+                        </p>
+                        <p  class="wow fadeInUp" data-wow-delay=".7s" data-wow-duration="500ms">
+                            Nemotek, S.A. de C.V. se creó en el año de 1985 con la idea de integrar 
+                            a las funciones de Diseño de Sistemas los equipos de cómputo, las redes 
+                            y las comunicaciones necesarias para ofrecer una solución completa e 
+                            integrada a los clientes. 
+                        </p>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="about-feature clearfix">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="block about-feature-1 wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">
+                    <h2>
+                    Por que elegirnos
+                    </h2>
+                    <p>
+                        Contamos con más de 40 años de experiencia en el desarrollo de sistemas 
+                        computacionales, realizando proyectos para más de 45 instituciones gubernamentales y empresas de diferentes rubros.
+                    </p>
+                </div>
+                <div class="block about-feature-2 wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">
+                    <h2 class="item_title">
+                    Que obtienes
+                    </h2>
+                    <p>
+                        La seguridad de un tener en sus manos un desarrollo profesional a la 
+                        medida, a través de métodos y procedimientos optimizados que hemos 
+                        perfeccionado a través de los años.
+                    </p>
+                </div>
+                <div class="block about-feature-3 wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".7s">
+                    <h2 class="item_title">
+                    Extra
+                    </h2>
+                    <p>
+                        A través de nuestros partners podemos ofrecerte no solo el sistema que 
+                        requiere, sino también el equipo necesario para asegurar un entorno optimo 
+                        para el sistema, así como su instalación.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="company-description">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h2 class="subtitle text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">
+                        Empresas del grupo
+                    </h2>
+                </div>
+            </div>
+            <div class="row bottom-30">
+                <div class="col-sm-4 col-sm-offset-1 text-center">
+                    <div class="block">
+                        <h3 class="wow fadeInUp" data-wow-delay=".3s" data-wow-duration="500ms">
+                            Nemotek S.A de C.V. (1985)
+                        </h3>
+                        <p  class="wow fadeInUp" data-wow-delay=".5s" data-wow-duration="500ms">
+                            Herramientas y aplicaciones computacionales.
+                            Consultoría en Seguridad de la Información.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-sm-4 col-sm-offset-2 text-center">
+                    <div class="block">
+                        <h3 class="wow fadeInUp" data-wow-delay=".3s" data-wow-duration="500ms">
+                            Perceptron S.A de C.V. (1987)
+                        </h3>
+                        <p  class="wow fadeInUp" data-wow-delay=".5s" data-wow-duration="500ms">
+                            Suministro e instalación de equipo de computo.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row bottom-100">
+                <div class="col-sm-4 col-sm-offset-1 text-center">
+                    <div class="block">
+                        <img src="assets/images/logo_n.png" alt="logo_nemotek" class="wow fadeInUp"  data-wow-delay=".7s" data-wow-duration="500ms">
+                    </div>
+                </div>
+                <div class="col-sm-4 col-sm-offset-2 text-center">
+                    <div class="block">
+                        <img src="assets/images/perceptron.png" alt="logo_nemotek"  width="111" height="114" class="wow fadeInUp"  data-wow-delay=".7s" data-wow-duration="500ms">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="clients">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2 class="subtitle text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">
+                        Alianzas estrategicas
+                    </h2>
+                    <p class="subtitle-des text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, error.
+                    </p>
+                    <div id="clients-logo" class="owl-carousel">
+                        <img src="assets/images/allies/s21sec.jpg" alt="S21Sec">
+                        <img src="assets/images/allies/vormetric.png" alt="Vormetric">
+                        <img src="assets/images/allies/hewlett-packard.png" alt="Hewlett Packard">
+                        <img src="assets/images/allies/data-locker.png" alt="Data Locker">
+                    </div>
+                    <div class="col-xs-1 col-xs-offset-5">
+                        <button class="btn btn-primary prev">
+                            <i class="fa fa-arrow-left fa-lg"></i>
+                        </button>
+                    </div>
+                    <div class="col-xs-1">
+                        <button class="btn btn-primary next">
+                            <i class="fa fa-arrow-right fa-lg"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.base_layout', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+   <head>
+      <meta charset="utf-8">
+   </head>
+   <body>
+      <h4>Estimado(a): <?php echo $name; ?></h4>
+      <p>
+         Hemos recibido su solicitud y en breve recibirá un correo por parte nuestra para analizar sus nececidades y brindarle una cotización por el proyecto que deseea.
+      </p>
+      <p>
+         Nemotek S.A. de C.V.<br>
+         Tel. (81) 8346 0050  Ext. 112
+      </p>
+   </body>
+</html>

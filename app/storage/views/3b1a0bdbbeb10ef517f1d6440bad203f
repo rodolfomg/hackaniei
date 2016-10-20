@@ -1,0 +1,21 @@
+<?php $__env->startSection('title'); ?>
+<h1>Módulo IV</h1>
+<?php $__env->stopSection(); ?>
+
+<?php $__env->startSection('left-sidebar'); ?>
+	<h2>Taller de Lenguaje de Programacion C/C++</h2>
+	<h4>
+		Ya estas en el Modulo IV; Taller de Lenguaje de Programacion C/C++. Y ahora que sigue?.<br>
+		Lo que sigue es que inicies el proceso para desarrollar la habilidad de resolver problemas,
+		escribiendo programas en el Lenguaje de programacion C/C++.	
+	</h4>
+	<h4>
+		El Lenguaje C es un lenguaje de programación creado en 1972 por Dennis M. Ritchie
+		en los Laboratorios Bell como evolución del anterior lenguaje B, a su vez basado
+		en BCPL. Al igual que B, es un lenguaje orientado a la implementación de Sistemas
+		Operativos, concretamente Unix. Es el lenguaje de programación más popular para
+		crear software de sistemas, aunque también se utiliza para crear aplicaciones 
+		para la solucion de problemas de la vida real y del entorno en toda actividad laboral.
+	</h4>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.m4_layout', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

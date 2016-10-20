@@ -1,0 +1,293 @@
+<?php $__env->startSection('content'); ?>
+    <section class="global-page-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="block">
+                        <h2>Nuestros Servicios</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section><!--/#Page header-->
+
+    <section class="">
+        <div class="container">
+            <div class="row bottom-30">
+                <div class="col-xs-12">
+                    <h1>Soluciones para tu negocio</h1>
+                    <p>
+                        Nemotek ofrece un portafolio robusto para satisfacer las necesidades tecnológicas y de seguridad
+                        de la información de pequeñas, medianas y grandes empresas. Contamos con un equipo de 
+                        ingenieros certificados para apoyar a nuestros clientes desde el diseño hasta la puesta a punto de 
+                        cada proyecto, buscando siempre soluciones de valor y construyendo relaciones de largo plazo 
+                        con nuestros clientes.
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-3">
+                  <!-- Nav tabs -->
+                  <ul class="nav nav-tabs vertical-tabs" role="tablist">
+                    <li role="presentation" class="active"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab">Seguridad en la Red</a></li>
+                    <li role="presentation"><a href="#tab2" aria-controls="tab2" role="tab" data-toggle="tab">Seguridad en Dispositivos Móviles</a></li>
+                    <li role="presentation"><a href="#tab3" aria-controls="tab3" role="tab" data-toggle="tab">Protección de Datos</a></li>
+                    <li role="presentation"><a href="#tab4" aria-controls="tab4" role="tab" data-toggle="tab">Seguridad en Aplicaciones</a></li>
+                    <li role="presentation"><a href="#tab5" aria-controls="tab5" role="tab" data-toggle="tab">Almacenamiento de Alta Seguridad</a></li>
+                    <li role="presentation"><a href="#tab6" aria-controls="tab6" role="tab" data-toggle="tab">Planeación y Gestión de Recursos</a></li>
+                  </ul>
+                </div>
+                <div class="col-sm-9" id="tab-content">
+                    <!-- Tab panes -->
+                    <div class="tab-content vertical-tab-content">
+                        <div role="tabpanel" class="tab-pane active" id="tab1"><!-- Seguridad en la Red -->
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <h3>Seguridad en la Red</h3>
+                                    <p>
+                                        Hoy en día la protección de su organización contra el malware más sofisticado y los daños previos 
+                                        y posteriores a la infección representan un gran desafío. Los dispositivos de seguridad perimetral 
+                                        de CheckPoint ofrecen una protección robusta con una defensa de múltiples capas, fácil de 
+                                        administrar y de bajo costo, satisfaciendo sus necesidades particulares.
+                                    </p>
+                                    <div class="text-right">
+                                        <a href="/servicios/seguridad-red" class="btn btn-theme-o-chg">
+                                            <strong>¡Conoce más!</strong>
+                                        </a>
+                                    </div>
+                                    <hr>
+                                    <div class="row">
+                                        <div class="col-sm-6 text-center service-box">
+                                            <img src="/assets/images/services/security/firewall.jpg" alt="NGF" width="38%">
+                                            <h4>Next Generation Firewall</h4>
+                                            <p>
+                                                Los Firewalls de nueva generación ofrecen seguridad multiniveles, 
+                                                que te permiten detectar vulnerabilidades antes de tiempo para 
+                                                tomar acciones.
+                                            </p>
+                                        </div>
+                                        <div class="col-sm-6 text-center service-box">
+                                            <img src="/assets/images/services/security/security.jpg" alt="UTM" width="30%">
+                                            <h4>Unified Threat Management</h4>
+                                            <p>
+                                                La Gestión de Amenazas Unificadas (UTM) es una plataforma de seguridad de 
+                                                redes que te permite proteger tu información a traves de multiples soluciones
+                                                de redes.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div role="tabpanel" class="tab-pane" id="tab2"><!-- Seguridad en Dispositivos Móviles -->
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <h3>Seguridad en Dispositivos Móviles</h3>
+                                    <p>
+                                        En un mundo tan dinámico, cada negocio se vuelve en un negocio móvil y la demanda para 
+                                        asegurar la información del negocio, proporcionar acceso seguro a los documentos de la empresa 
+                                        y mantener los dispositivos móviles seguros de amenazas, representa un gran reto para los 
+                                        profesionales de TI.
+                                    </p>
+                                    <div class="text-right">
+                                        <a href="/servicios/seguridad-mobil" class="btn btn-theme2-o-chg">
+                                            <strong>¡Conoce más!</strong>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div role="tabpanel" class="tab-pane" id="tab3"><!-- Protección de Datos -->
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <h3>Protección de Datos</h3>
+                                    <p>
+                                        Existe una gran cantidad de dispositivos que generan y almacenan información sensible y que
+                                        sufren pérdidas de información y pueden caer en malas manos. Es importante considerar dos 
+                                        puntos: mantener un respaldo actualizado y encriptar todos estos dispositivos – PCs, USBs, correo 
+                                        electrónico, entre otros – de tal manera que el ciberdelincuente no tenga acceso a la información.
+                                    </p>
+                                    <div class="text-right">
+                                        <a href="/servicios/proteccion-datos" class="btn btn-theme2">
+                                            <strong>¡Conoce más!</strong>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div role="tabpanel" class="tab-pane" id="tab4"><!-- Seguridad en Aplicaciones -->
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <h3>Seguridad en Aplicaciones</h3>
+                                    <p>
+                                        El desarrollo de aplicaciones hechas en casa, de terceros o comerciales puede ser un dolor de 
+                                        cabeza operativo y costoso si no están debidamente probadas y se detectan vulnerabilidades ya 
+                                        estando en producción. El costo de remediar una vulnerabilidad en el código fuente de una 
+                                        aplicación puede ser hasta de 30 veces el costo inicial.
+                                    </p>
+                                    <p>
+                                        El control de acceso adecuado para los usuarios de la red a estas aplicaciones es crucial para
+                                        asegurar que cada usuario tiene acceso sólo a aquellos recursos para la cual está autorizado.
+                                    </p>
+                                    <div class="text-right">
+                                        <a href="/servicios/seguridad-apps" class="btn btn-theme">
+                                            <strong>¡Conoce más!</strong>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div role="tabpanel" class="tab-pane" id="tab5"><!-- Almacenamiento de Alta Seguridad -->
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <h3>Almacenamiento de Alta Seguridad</h3>
+                                    <p>
+                                        Los desastres no son programados y siempre nos toman por sorpresa. Existen múltiples escenarios 
+                                        – corte de energía, accidentes, falta de conciencia de los empleados, robo de información, entre 
+                                        otros – que ponen en peligro el activo más valioso de la organización – la información. El acceso a 
+                                        las redes, los servidores y las aplicaciones que almacenan la información cada vez es más 
+                                        vulnerable.
+                                    </p>
+                                    <div class="text-right">
+                                        <a href="/servicios/almacenamiento-seguro" class="btn btn-theme-chg">
+                                            <strong>¡Conoce más!</strong>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div role="tabpanel" class="tab-pane" id="tab6"><!-- Planeación y Gestión de Recursos -->
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <h3>Planeación y Gestión de Recursos</h3>
+                                    <p>
+                                        Nemotek cuenta con servicios y productos hechos en casa para satisfacer las necesidades de
+                                        nuestros clientes. Somos pioneros en sistemas de Administración Financiera para el Sector Publico 
+                                        – Government Resource Planning (GRP) – cumpliendo estrictamente con la Ley General de 
+                                        Contabilidad Gubernamental y apoyado en las normatividades de la CONAC – Consejo Nacional de 
+                                        Armonización Contable.
+                                    </p>
+                                    <div class="text-right">
+                                        <a href="/servicios/planeacion" class="btn btn-theme2-chg">
+                                            <strong>¡Conoce más!</strong>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="works works-fit">
+        <div class="container">
+            <h2 class="subtitle">Some Of Our Features Works</h2>
+                <p class="subtitle-des">
+                    Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.
+                </p>
+            <div class="row">
+                <div class="col-sm-3">
+                     <figure class="wow fadeInLeft animated portfolio-item animated" data-wow-duration="300ms" data-wow-delay="0ms" style="visibility: visible; animation-duration: 300ms; -webkit-animation-duration: 300ms; animation-delay: 0ms; -webkit-animation-delay: 0ms; animation-name: fadeInLeft; -webkit-animation-name: fadeInLeft;">
+                        <div class="img-wrapper">
+                            <img src="/assets/images/portfolio/item-1.jpg" class="img-responsive" alt="portfolio items">
+                            <div class="overlay">
+                                <div class="buttons">
+                                    <a rel="gallery" title="Proin imperdiet augue et magna interdum hendrerit" class="fancybox" href="/assets/images/portfolio/item-1.jpg">Demo</a>        
+                                    <a target="_blank" href="single-postfolio.html">Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        <figcaption>
+                            <h4>
+                                <a href="#">
+                                    Dew Drop        
+                                </a>
+                            </h4>
+                            <p>
+                                Redesigne UI Concept
+                            </p>
+                        </figcaption>
+                    </figure>
+                </div>
+
+                <div class="col-sm-3">
+                    <figure class="wow fadeInLeft animated animated" data-wow-duration="300ms" data-wow-delay="300ms" style="visibility: visible; animation-duration: 300ms; -webkit-animation-duration: 300ms; animation-delay: 300ms; -webkit-animation-delay: 300ms; animation-name: fadeInLeft; -webkit-animation-name: fadeInLeft;">
+                        <div class="img-wrapper">
+                            <img src="/assets/images/portfolio/item-2.jpg" class="img-responsive" alt="portfolio items">
+                            <div class="overlay">
+                                <div class="buttons">
+                                    <a rel="gallery" title="Proin imperdiet augue et magna interdum hendrerit" class="fancybox" href="/assets/images/portfolio/item-2.jpg">Demo</a>        
+                                    <a target="_blank" href="single-postfolio.html">Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        <figcaption>
+                            <h4>
+                                <a href="#">
+                                    Bottle Mockup        
+                                </a>
+                            </h4>
+                            <p>
+                                Lorem ipsum dolor sit.
+                            </p>
+                        </figcaption>
+                    </figure>
+                </div>
+
+                <div class="col-sm-3">
+                    <figure class="wow fadeInLeft animated animated" data-wow-duration="300ms" data-wow-delay="300ms" style="visibility: visible; animation-duration: 300ms; -webkit-animation-duration: 300ms; animation-delay: 300ms; -webkit-animation-delay: 300ms; animation-name: fadeInLeft; -webkit-animation-name: fadeInLeft;">
+                        <div class="img-wrapper">
+                            <img src="/assets/images/portfolio/item-3.jpg" class="img-responsive" alt="">
+                            <div class="overlay">
+                                <div class="buttons">
+                                    <a rel="gallery" title="Proin imperdiet augue et magna interdum hendrerit" class="fancybox" href="/assets/images/portfolio/item-3.jpg">Demo</a>        
+                                    <a target="_blank" href="single-postfolio.html">Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        <figcaption>
+                            <h4>
+                                <a href="#">
+                                    Table Design        
+                                </a>
+                            </h4>
+                            <p>
+                                Lorem ipsum dolor sit amet.
+                            </p>
+                        </figcaption>
+                    </figure>
+                </div>
+
+                <div class="col-sm-3">
+                    <figure class="wow fadeInLeft animated animated" data-wow-duration="300ms" data-wow-delay="600ms" style="visibility: visible; animation-duration: 300ms; -webkit-animation-duration: 300ms; animation-delay: 600ms; -webkit-animation-delay: 600ms; animation-name: fadeInLeft; -webkit-animation-name: fadeInLeft;">
+                        <div class="img-wrapper">
+                            <img src="/assets/images/portfolio/item-4.jpg" class="img-responsive" alt="">
+                            <div class="overlay">
+                                <div class="buttons">
+                                    <a rel="gallery" title="Proin imperdiet augue et magna interdum hendrerit" class="fancybox" href="/assets/images/portfolio/item-4.jpg">Demo</a>        
+                                    <a target="_blank" href="single-postfolio.html">Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        <figcaption>
+                            <h4>
+                                <a href="#">
+                                    Make Up elements        
+                                </a>
+                            </h4>
+                            <p>
+                                Lorem ipsum dolor.
+                            </p>
+                        </figcaption>
+                    </figure>
+                </div>
+
+               
+
+            </div>
+        </div>
+    </section>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.base_layout', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

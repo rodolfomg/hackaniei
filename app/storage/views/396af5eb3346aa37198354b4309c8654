@@ -1,0 +1,25 @@
+<?php $__env->startSection('title'); ?>
+<h1>Módulo I</h1>
+<?php $__env->stopSection(); ?>
+
+<?php $__env->startSection('left-sidebar'); ?>
+	<h2>Iniciación a la Programación y a la Robótica Virtual, a través de iconos por internet</h2><br/>
+	<p>
+		El primer módulo consiste en programar a un robot virtual por internet, a través de una programación gráfica, muy amigable y sencilla para jóvenes, llamada 
+		<span class="text-info">
+			<strong><a href="http://robozzle.com" target="_blank">robozzle.com</a></strong>
+		</span>
+	</p> 
+	<video width="90%" controls>
+		<source src="movie.ogg" type="video/ogg">
+		<source src="/assets/moduloI/video/Turn_on_red.mp4" type="video/mp4">
+		<object data="movie.mp4" width="320" height="240">
+			<embed width="320" height="240" src="movie.swf">
+		</object>
+	</video><br/><br/>
+	<p>Los participantes podrán programar a un robot para resolver problemas desde los más sencillos, y de manera gradual, ir aumentando su grado de dificultad, acorde al nivel de cada participante. El objetivo es recoger todas las estrellas que aparecen en el mapa utilizando un robot virtual y una serie de comandos gráficos para dirigir al robot.</p>
+	<p>Cada participante <span class="text-danger">deberá registrarse previamente </span>en la página <a href="http://robozzle.com">robozzle.com</a>, una vez hecho esto puede ver los tutoriales y revisar los ejercicios para conocer como manejar esta plataforma y así, posteriormente, empezar a resolver las tareas del presente módulo, con las cuales sumará puntos para acender en el ranking de la competencia</p>
+	<p>Al entrar en la sección de tareas o ejercicios al participante le aparecerán una serie de problemas que deberá resolver, cada problema es una liga a la plataforma de <a href="http://robozzle.com">robozzle.com</a>, el participante entrará resolvera el ejercicio y le tomará una captura de pantalla, la cual subira a la plataforma <a href="ipuanl.educacioncreativa.org">ipuanl.educacioncreativa.org</a></p>
+	<a class="btn green-meadow" href="http://robozzle.com" target="_blank">Ir ahora</a>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.m1_layout', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

@@ -1,0 +1,77 @@
+<?php $__env->startSection('content'); ?>
+		<!-- BEGIN PAGE HEADER-->
+		<h3 class="page-title">
+		Grupos <small>Gestor de grupos</small>
+		</h3>
+		<!-- END PAGE HEADER-->
+		<!-- BEGIN PAGE CONTENT-->
+		<div class="row">
+			<div class="col-md-12">
+				<!-- BEGIN PROFILE CONTENT -->
+				<div class="profile-content">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="portlet light">
+								<div class="portlet-title tabbable-line">
+									<div class="caption caption-md">
+										<i class="icon-globe theme-font hide"></i>
+										<span class="caption-subject font-blue-madison bold uppercase">Nuevo Grupo</span>
+									</div>
+									<ul class="nav nav-tabs">
+										<li class="active">
+											<a href="#tab_1_1" data-toggle="tab"></a>
+										</li>
+									</ul>
+								</div>
+								<div class="portlet-body">
+									<div class="tab-content">
+										<!-- INFO TAB -->
+										<div class="tab-pane active" id="tab_1_1">
+											<?php echo Form::open(array('url' => '/admin/add-group', 'id' => 'form-bundle')); ?>
+
+												<div class="form-group">
+													<label class="control-label">Nombre del grupo</label>
+													<?php echo Form::text('nombre', null, array('class' => 'form-control')); ?>
+
+												</div>
+												<div class="form-group">
+													<label class="control-label">Tipo de grupo</label>
+													<?php echo Form::select('tipo', array(0 => "Alumnos", 1 => "Maestros"), 0, array('class' => 'form-control')); ?>
+
+												</div>
+												<div class="form-group">
+													<label class="control-label">Dependencia</label>
+													<?php echo Form::select('escuela', $escuelas, 1, array('class' => 'form-control')); ?>
+
+												</div>
+												<div class="form-group">
+													<label class="control-label">Maestro</label><br />
+													<?php echo Form::select('maestro', $maestros, 1, array('class' => 'form-control')); ?>
+
+												</div>
+												<div class="form-group">
+													<label class="control-label">Descripción</label>
+													<?php echo Form::textArea('descripcion', null, array('class' => 'form-control', 'rows' => 3)); ?>
+
+												</div>
+												<div class="margiv-top-40">
+													<?php echo Form::submit('Agregar grupo', array('class' => 'btn green-haze')); ?>
+
+													<a href="#" class="btn default">
+													Cancelar </a>
+												</div>
+											</form>
+										</div>
+										<!-- END INFO TAB -->
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- END PROFILE CONTENT -->
+			</div>
+		</div>
+		<!-- END PAGE CONTENT-->
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('layouts.admin_layout', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
