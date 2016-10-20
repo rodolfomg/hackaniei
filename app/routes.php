@@ -11,3 +11,4 @@
 |
 */
 Route::any('/', function(){return View::make('index');});
+Route::get('curso/{id}',array('uses'=>'CoursesController@getCourse'))
